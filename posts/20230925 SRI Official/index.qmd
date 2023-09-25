@@ -2,6 +2,7 @@
 title: "In Loving Memory of Spencer"
 author: "Uncle David"
 date: "2023-09-25"
+draft: "yes"
 categories: [obituary]
 ---
 
