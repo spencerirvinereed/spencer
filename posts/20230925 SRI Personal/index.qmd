@@ -3,7 +3,6 @@ title: "Our Spencer"
 author: "Uncle David"
 date: "26 September 2023"
 categories: [recordada]
-image: "image.jpg"
 ---
 
 ## Spencer loved people.
@@ -12,7 +11,7 @@ People who felt his love were lifted and edified.
 
 And they gave that love back to Spencer and others.
 
-![](temple_cloud.jpg)
+![](temple_cloud.jpeg)
 
 ## Education
 

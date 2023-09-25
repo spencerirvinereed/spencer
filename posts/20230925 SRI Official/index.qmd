@@ -3,7 +3,6 @@ title: "In Loving Memory of Spencer"
 author: "Uncle David"
 date: "2023-09-25"
 categories: [obituary]
-image: "image.jpg"
 ---
 
 In Loving Memory of Spencer Irvine
