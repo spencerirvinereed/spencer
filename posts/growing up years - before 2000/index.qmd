@@ -7,5 +7,8 @@ categories: [blog]
 
 ![Turley's Wedding, June 1994](19940625_AZ.JPG)
 
+::: {layout-ncol=2}
+![Pre School Days, about 5 yrs old](spencer_at_5.jpeg)
 
 ![Perhaps at Age 1, PC Mark Volk](spencer1.jpg)
+:::
