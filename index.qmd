@@ -1,5 +1,5 @@
 ---
-title: "spencer"
+title: "Remembering Spencer"
 listing:
   contents: posts
   sort: "date desc"
