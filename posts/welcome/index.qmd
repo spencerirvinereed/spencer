@@ -8,3 +8,11 @@ categories: [blog]
 This blog is dedicated to a life and love that Spencer Irvine shared.
 
 ![Provo Temple, September 2022](temple_flair.jpg)
+
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/spencerirvinereed/blogComment"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
