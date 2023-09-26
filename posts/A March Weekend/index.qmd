@@ -1,0 +1,35 @@
+---
+title: "A Weekend with Spencer"
+author: "Uncle David"
+date: "2023-09-26"
+categories: [remembering]
+---
+
+Time with Spencer and Don, means discussion will flow, no set topic.
+
+There is no way to prepare for it, just enjoy it.
+
+![Dobson Ranch, 20 March 2023](lake.jpeg)
+
+---
+![Angels Baseball, 18 March 2023](at_game.jpg)
+
+Don and Young were visiting our sister in AZ in late March.
+
+Jumped at the opportunity to join them.
+
+We always talked about watching a baseball game in AZ.
+
+Like having a personal play-by-play announcer and color commentator, a historian sitting next to you.
+
+![Diablo Stadium, 19 March 2023](diablo.jpeg)
+
+```{=html}
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/spencerirvinereed/blogComment"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+```
