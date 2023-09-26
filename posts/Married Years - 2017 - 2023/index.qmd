@@ -1,11 +1,13 @@
 ---
-title: "Married Years - 2017 -2023"
+title: "Married Years - 2017 - 2023"
 author: "Irvine & Nunez Family"
 date: "2023-10-01"
 categories: [blog]
 ---
 
 ## April 2019
+
+Moving from Maryland to Arizona.
 
 ![](moving_truck.jpeg)
 

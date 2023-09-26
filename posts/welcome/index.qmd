@@ -7,6 +7,8 @@ categories: [blog]
 
 This blog is dedicated to a life and love that Spencer Irvine shared.
 
+Please share your memory of Spencer in the comment section below.
+
 ![Provo Temple, September 2022](temple_flair.jpg)
 
 <script src="https://utteranc.es/client.js"
