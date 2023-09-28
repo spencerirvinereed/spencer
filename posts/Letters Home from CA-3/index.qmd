@@ -1,5 +1,5 @@
 ---
-title: "California Spring- It's on!"
+title: "California Spring - It's on!"
 author: "Elder Irvine"
 date: "2008-03-31"
 categories: [letters]
