@@ -1,29 +1,51 @@
 ---
 title: "A Weekend with Spencer"
 author: "Uncle David"
-date: "2023-09-26"
+date: "2023-03-18"
 categories: [remembering]
 ---
 
-Time with Spencer and Don, means discussion will flow, no set topic.
+My sister in Mesa said,
 
-There is no way to prepare for it, just enjoy it.
+> Irvines are flying in, you should come down.
 
-![Dobson Ranch, 20 March 2023](lake.jpeg)
+When someone in AZ invites, I am on my way.  
 
-------------------------------------------------------------------------
+Especially, if the invitation is before Spring Equinox.
+
+Prior to arriving, told Don that we should watch a spring baseball game.
+
+He and Spencer made arrangements.
+
+And just like that we were at the Diablo Stadium.
+Watching the `Texas Rangers` play the `LA (California) Angels`
+
+![The Buttes, Tempe AZ, May 2016](pano.jpg)
+
+What a venue for a baseball game, or any event.  
+I had visited this complex during my traveling days.  
+I wanted to watch a game in person
+
+We were like foreigners following their teams.
+Traveling abroad to watch them play -- even if it a spring practice game.
+
+But it wasn't the game that entertained and enlightened us.
 
 ![Angels Baseball, 18 March 2023](at_game.jpg)
 
-Don and Young were visiting our sister in AZ in late March.
+For we had a personal baseball commentator, a historian, and the current event interpreter sitting with us.
 
-Jumped at the opportunity to join them.
+Spencer had us relaxed, think about ourselves and in turn think about life.
 
-We always talked about watching a baseball game in AZ.
+While sitting in an open stadium, feeling the sun with bit of clouds on an early desert spring afternoon.
 
-Like having a personal play-by-play announcer and color commentator, a historian sitting next to you.
+There was no need for a preparation, just be there and enjoy the conversation.
 
-![Diablo Stadium, 19 March 2023](diablo.jpeg)
+Thank you Don.
+Thank you Spencer
+
+![Diablo Stadium, 18 March 2023](diablo.jpeg)
+
 
 ```{=html}
 <script src="https://utteranc.es/client.js"
