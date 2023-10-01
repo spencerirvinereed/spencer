@@ -1,0 +1,76 @@
+---
+title: "Video : Washington DC North Mission"
+author: "President & Sister Neilson"
+date: "2023-10-01"
+format: 
+  html:
+    resources:
+      - Full.MOV
+categories: [video_message]
+---
+
+Hi President & Sister Irvine, 💗
+
+I just wanted to write you a note and tell you how thankful I am for you and for having you as such amazing senior missionaries.
+
+I loved the aprons & always delicious food & acts of service & love while I was in Washington D.C.!
+
+I especially loved the sack lunches you would make us for zone conferences & the handmade masks when I was brand new to the mission back in august of 2020.
+
+They made me have so much joy! 💗
+
+I was so sad to hear about your son passing away.
+
+I am praying for you & Sister Irvine & your family and hope you have comfort & peace.
+
+Thank you for making missionary life better in a time that a lot of the time felt really dark & dreary.
+
+I hope you & your family are able to feel loved & fortified.
+
+💗 love you
+
+President & Sister Irvine!!! 💗
+
+- Sister `D`
+
+---
+
+Elder and Sister Irvine!
+
+We're so sorry for your loss😢 we know he's in Jesus's hand now, God has a plan for him!
+
+Keep being strong, you are in our prayers.
+
+We love you🤟
+
+---
+
+![](Full.jpg)
+
+President Reid & Shelly Neilson (2019-2022) and missionaries that served in the Washington DC North Mission.
+
+::: callout-note
+## The video contains audio, may need to adjust volume accordingly
+:::
+
+<figure>
+
+<figcaption>Click to listen</figcaption>
+
+<video controls src="Full.MOV">
+
+Your browser does not support the <code>video</code> element.
+
+</video>
+
+</figure>
+
+```{=html}
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/spencerirvinereed/blogComment"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+```
