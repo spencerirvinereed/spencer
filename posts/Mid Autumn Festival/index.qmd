@@ -1,0 +1,117 @@
+---
+title: "Harvest Gathering"
+date: "2023-10-02"
+categories: [gratitude, gathering]
+---
+
+::: callout-note
+This writing is mainly for a recording keeping purpose, to aid my understanding and memory.  
+If it helps the next generation to remember their grandparents and their heritage, that would suffice.
+:::
+
+All cultures celebrate and give thanks during the harvest season.
+
+The Wikipedia defines a Harvest Celebration as
+
+> A harvest festival is an annual celebration that occurs around the time of the main harvest of a given region
+
+For many in the northern Asia, the Harvest Festival is celebrated during the 8th Lunar Month, when the moon is full[^1].
+
+[^1]: The Full Moon is when the Sun and the Moon are aligned on opposite sides of Earth, and 100% of the Moon's face is illuminated by the Sun, [link](https://www.timeanddate.com/astronomy/moon/full-moon.html)
+
+![](roof_bw.jpeg)
+
+For Koreans, of my generation, 추석(秋夕, Autumn Evening), or 한가위(the great middle (of autumn)) is a time of gathering, celebrating, remembering of ancestors.
+
+The gathering is according to family units at the hometown for at least 3 days.
+
+It is time of great feast, fresh harvest along with items normally set aside for special occasions.
+
+It is a celebration if the harvest was sufficient to last the winter months, or when the next harvest can be expected -- at least during the agrarian days.
+
+Remembering the ancestors involves tidying up the grave and preparing a meal for the deceased and saying set phrases executing set movements.
+
+------------------------------------------------------------------------
+
+Normally, it is a time of anticipation and celebration, unless the person is one of over 8 million^[실향민의 숫자는 1985년 5백만명으로 집계됐으며, 2\~3세까지 합하면 8백만명에 이른다고 한다, [link](https://namu.wiki/w/%EC%8B%A4%ED%96%A5%EB%AF%BC)] 실향민 in South Korea.
+
+실향민(失鄕民 / refugee), is also translated a `Displace People`. People who are unable to return to their homeland due to, usually, man-made, political boundaries.
+
+Growing up, gathering during the Harvest Celebration, meant visiting the graves of the deceased and visiting the household with the oldest member of the clan.
+
+Since my family migrated (or were refugees) from Northern part of Korea, the gathering was very small, the celebration was limited.
+We talked of old home (老家) and we yearned for the day when we can travel to the ancestral home and meet the people with common heritage.
+
+![](old_home.jpeg)
+
+That dream is still is alive.
+
+However the probability of its occurrence is small.
+Even it was possible, what is the meaning of face to face meeting people with no interactions or knowledge of relationship -- for nearly 75 years.
+
+---
+
+Celebrating harvest celebration alone as a grown up was more challenging.
+Everyone took the, mandatory time off and headed to their hometown.
+
+I, on the other hand, went and visited my only relative in Seoul -- traveling in opposite direction than the vast majority of the population.
+
+Living in the United States has been a dream of my parents.
+Most of the time, I relish the label of refugee/immigrant.
+A refugee within Korea followed by migration to the great land of America.
+
+At times, especially during the time of family gathering to ancestral home, I wish to know the rest of people that I ought to know.
+
+---
+
+## Importance of Physical Gathering
+
+Biblical patriarchs speaks of gathering unto the people. 
+Similar expression are used in Korea, including the phrase,
+`돌아가다`, return to where one originated from.
+
+> 29 And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite,[^2]
+
+[^2]: https://www.biblegateway.com/passage/?search=Genesis%2049&version=KJV
+
+Our physical, mortal existence ends with a burial - a literal and a symbolic gathering.
+In Christianity, that symbolic burial of the body is followed by the literal gathering of spirits and souls, it is called the resurrection.
+
+## Necessity of Spiritual Gathering
+
+Approaching the latter half of life, contemplating the eventual death and transformation, I begin to wonder and as I prepare,
+
+- Will we be gathered and organized by the family groups.
+- What type of work will I be involved in
+- How will wrongs and lack of experiences due to premature death be corrected and extended. 
+- What type of learning and how will furthering of our understanding happen
+
+---
+
+## Kang and Hwang Family Information
+
+### Grandma Hwang Family Ancentral Home
+
+평안남도 강서군 초리면 송호리  
+황운학 김연화  
+^[From the memory of mother Hwang]
+
+### Grandpa Kang Family Ancentral Home
+
+함경남도 안변군 신모면 이남리  
+강현용 김옥돌  
+^[Family Census Record, original in Korean/Chinese]
+
+![](roof_color.jpeg)
+
+> Autumn Harvest 2023
+
+```{=html}
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/spencerirvinereed/blogComment"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+```
