@@ -3,6 +3,7 @@ title: "Teenage Years - 2000 - 2007"
 author: "Irvine Family"
 date: "2023-09-27"
 categories: [blog]
+image: image.jpg
 ---
 
 ## Alfredo Lopez's Memories
