@@ -3,6 +3,7 @@ title: "California Mission - 2007-2009"
 author: "Elder Irvine"
 date: "2023-09-28"
 categories: [letters]
+image: IMG_2180.jpg
 ---
 
 ## Letter Home, 10 December 2007

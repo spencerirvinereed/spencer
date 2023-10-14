@@ -8,6 +8,8 @@ image: bike.jpeg
 
 ![Turley's Wedding, Mesa AZ, June 1994](19940625_AZ.JPG)
 
+![Date TBD](scout.jpeg)
+
 ::: {layout-ncol=2}
 ![Pre School Days, about 5 yrs old](spencer_at_5.jpeg)
 
