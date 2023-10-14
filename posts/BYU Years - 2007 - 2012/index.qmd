@@ -1,6 +1,6 @@
 ---
 title: "BYU Years - 2007 - 2012"
-author: "Irvine & Nunez Family"
+author: "Irvine Family"
 date: "2023-09-29"
 categories: [blog]
 ---

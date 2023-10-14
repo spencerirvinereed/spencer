@@ -1,8 +1,9 @@
 ---
 title: "Growing Up Years : 1988 - 2000"
-author: "Irvine & Nunez Family"
+author: "Irvine Family"
 date: "2023-09-26"
 categories: [blog]
+image: bike.jpeg
 ---
 
 ![Turley's Wedding, Mesa AZ, June 1994](19940625_AZ.JPG)

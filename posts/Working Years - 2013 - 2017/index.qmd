@@ -1,6 +1,6 @@
 ---
 title: "Working Years - 2013 - 2017"
-author: "Irvine & Nunez Family"
+author: "Irvine Family"
 date: "2023-09-30"
 categories: [blog]
 ---
