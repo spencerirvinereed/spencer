@@ -29,7 +29,7 @@ df %>%
 
 ```
 
-## How Great Thou Art[^1]
+## How Great Thou Art[^1] {#sec-great_thou}
 
 [^1]: https://hymnary.org/hymn/LDS1985/86
 
@@ -96,7 +96,7 @@ In the beauty of the lilies Christ was born across the sea, With a glory in His 
 *Chorus Glory! Glory! Hallelujah! Glory! Glory! Hallelujah! Glory! Glory! Hallelujah! His truth is marching on*.
 
 ::: callout-note
-## These files contains audio, may need to adjust volume accordingly.  Also note that the recording of hymns have less fidelity than the recording of speakers.
+## These files contains audio, may need to adjust volume accordingly. Also note that the recording of hymns have less fidelity than the recording of speakers.
 :::
 
 ## Audio Recording
@@ -117,9 +117,9 @@ Your browser does not support the <code>video</code> element.
 
 [Link to Zoom Recording](https://zoom.us/rec/share/L5Ihxve8iWl8dJ4kON-dJqW1cYdH1w6WJbNQohGnX_nA7wTda-ywE2_R3E9ZuuTk.VaY52zecFbg8Xaxd?iet=kPac2FZC5Pa6jFlUE1H-B4t3Ya7L1S65irqT6ODcTFw.AG.Uwp7h3h6VdnIuZkILyKtLsQHMLIuWjRcHjxjRC_XhGzhJpR0JjI9scqo3L2Tx6Aetgn7sphd9ifZCJR0DRraC_v-A_Oo1M9Mcv9POaSErnofY-5c2oWt-ykag5XqsA.s021rntHoL5nwx-CkZXbZA.FJR_Z8wXYgsem4o0)
 
-## Transcript
+# Transcript
 
-### Bishop McCormack
+## Bishop McCormack
 
 Brothers and Sisters, family and friends.
 
@@ -147,7 +147,7 @@ We are grateful for the many blessings that Thou gives us for the gospel, For th
 
 We say these things humbly in the name of Jesus Christ, Amen.
 
-### Bishop McCormack
+## Bishop McCormack
 
 We have a few speakers this morning.
 
@@ -157,7 +157,9 @@ We will then pause to hear John and Sarah Gonzales singing my shepherd.
 
 Following the musical number, a eulogy will be given by Steven Irvine. Following Stephen, Alfredo Lopez, (Spencer's friend), will say a few words.
 
-### Kristy Irvine
+![](fall1.jpeg)
+
+## Kristy Irvine
 
 My hope and prayer today is that the the spirit can be with me.
 
@@ -342,421 +344,752 @@ My testimony is that Sunday will come that glorious day when we will be reunited
 
 ------------------------------------------------------------------------
 
-### Steven Irvine
+![](distant_mtn.jpeg)
 
-Spencer was a special person. 
+## Steven Irvine
 
-As you heard from Kristy, he was the most Christ like. 
+Spencer was a special person.
 
-Kind, caring, loving person that I know. 
+As you heard from Kristy, he was the most Christ like.
 
-He was the best older brother. 
-He was the best friend. 
-And the best example, that I could have. 
+Kind, caring, loving person that I know.
+
+He was the best older brother. He was the best friend. And the best example, that I could have.
 
 This week has been a week of reflection for me
 
-I tried to figure out and appreciate how much my life was influenced by my older brother and the 31 years that I was able to spend with him. 
+I tried to figure out and appreciate how much my life was influenced by my older brother and the 31 years that I was able to spend with him.
 
-I realized  I attribute so much of who I am to who he was
-And how much I wanted to be like him. 
+I realized I attribute so much of who I am to who he was And how much I wanted to be like him.
 
 Growing up, I shared a room with him and we always talked before going to bed in our little bunk beds.
 
-All of my hobbies, all of my knowledge came from his influence.
-And because he loved history and civil war, so I know about Antietam and Gettysburg 
-Because he was so obsessed with those things and we'd go on these trips over to Virginia and have fun as a family.
+All of my hobbies, all of my knowledge came from his influence. And because he loved history and civil war, so I know about Antietam and Gettysburg Because he was so obsessed with those things and we'd go on these trips over to Virginia and have fun as a family.
 
-Because that's what Spencer loved.
-I just wanted to be there with him and I wanted to learn about these that he loved. 
+Because that's what Spencer loved. I just wanted to be there with him and I wanted to learn about these that he loved.
 
 My love for all sports comes from his nerdiness.
 
-All thosee stats that he knew and I'm going to miss texting 
+All thosee stats that he knew and I'm going to miss texting
 
-> hey, what do you think about this guy 
+> hey, what do you think about this guy
 
-And he would text me back all these stats. 
+And he would text me back all these stats.
 
-That's just who he was. 
+That's just who he was.
 
-He was so loving and knowledgeable.
-He just gave everything his all,
-I always wanted to follow in his footsteps. 
+He was so loving and knowledgeable. He just gave everything his all, I always wanted to follow in his footsteps.
 
-I wanted to be the college football fan that could talk football with my brother. 
-I wanted to play the video games, growing up with my brother and my sister, and have fun playing Mario Kart with them. 
+I wanted to be the college football fan that could talk football with my brother. I wanted to play the video games, growing up with my brother and my sister, and have fun playing Mario Kart with them.
 
-I just wanted to be him. 
+I just wanted to be him.
 
-That's what what I've realized over this last week.
-I really wanted to be my brother. 
+That's what what I've realized over this last week. I really wanted to be my brother.
 
-Because he just set such a good example for me. 
+Because he just set such a good example for me.
 
-How to be man 
-How to be an adult. 
-How to be a spouse. 
+How to be man How to be an adult. How to be a spouse.
 
-Because he adored Meg and he treated her like a queen. 
-And I thought to myself one day I want to love somebody like that because I saw how much he loved her. 
+Because he adored Meg and he treated her like a queen. And I thought to myself one day I want to love somebody like that because I saw how much he loved her.
 
-He was everything I could ask for from an older brother. 
-He was truly the best example. 
-He had the best laugh, even though it was a little too loud. 
+He was everything I could ask for from an older brother. He was truly the best example. He had the best laugh, even though it was a little too loud.
 
 We all loved it.
 
-You can read all the hundreds of Facebook comments about him and his contagious laughter, with his big smile and how it just came out of his chest. 
+You can read all the hundreds of Facebook comments about him and his contagious laughter, with his big smile and how it just came out of his chest.
 
 And you knew exactly where he was at all times.
 
-He had so much fun with everything that he did and he just loved life so much. 
+He had so much fun with everything that he did and he just loved life so much.
 
-And there's a word that I was thinking of. 
-How do I how do I explain who Spencer was? 
-To somebody who didn't know my older brother. 
+And there's a word that I was thinking of. How do I how do I explain who Spencer was? To somebody who didn't know my older brother.
 
-The word is `Vigor`. 
-And that's just how Spencer lived. 
+The word is `Vigor`. And that's just how Spencer lived.
 
 He lived with so much vigor, he loved life, he loved everybody.
 
-He was everybody's best friend. 
-He talked to people on the airplane. 
-Who does that? 
-But that was Spencer.
+He was everybody's best friend. He talked to people on the airplane. Who does that? But that was Spencer.
 
-He was everybody's best friend. 
-He always had a smile on his face. 
+He was everybody's best friend. He always had a smile on his face.
 
-If you look at any of those pictures, you knew he was a happy person. 
-And he was so Christ like.
+If you look at any of those pictures, you knew he was a happy person. And he was so Christ like.
 
-He was so loving. 
-He was so caring. 
-And it's just as my sister said. 
-He leaves such a big hole in our family. 
+He was so loving. He was so caring. And it's just as my sister said. He leaves such a big hole in our family.
 
-And now, as I try to compare myself to him,  
+And now, as I try to compare myself to him,
 
 He would call my parents out of the blue to check up on them.
 
-I call my parents to get something from them, or ask them a question.
-But Spencer cared about how my dad's day was going.
-While I was like, 
+I call my parents to get something from them, or ask them a question. But Spencer cared about how my dad's day was going. While I was like,
 
-> oh, I could call my dad today, I guess, but... 
+> oh, I could call my dad today, I guess, but...
 
-He just he loved them so much and he was just such a good son. 
+He just he loved them so much and he was just such a good son.
 
-He was my dad's best friend. 
-He always thought about them. 
-He always thought about other people, even when he was sick last Wednesday. 
+He was my dad's best friend. He always thought about them. He always thought about other people, even when he was sick last Wednesday.
 
-Out of the blue, he called me -- four times. 
-I thought this was strange.
+Out of the blue, he called me -- four times. I thought this was strange.
 
-I was working and I missed the calls.
-I thought it was weird that he called me four times and he left me a voicemail. 
+I was working and I missed the calls. I thought it was weird that he called me four times and he left me a voicemail.
 
-And the voicemail starts off with. 
+And the voicemail starts off with.
 
-> Love you little bro. Thank you so much for praying for us and all the
-support. 
+> Love you little bro. Thank you so much for praying for us and all the support.
 
 And then he ends it with
 
-> love you so much. Take care, Steven. 
+> love you so much. Take care, Steven.
 
-And I didn't at the time, I didn't think much of it 
-Because well, we will have time with him.
-But, why did he call me? 
-On a Wednesday during a work day. 
+And I didn't at the time, I didn't think much of it Because well, we will have time with him. But, why did he call me? On a Wednesday during a work day.
 
-Why did he feel like he had to call me so many times and I ended up
-calling him back and we had a really great chat for 45 minutes. 
+Why did he feel like he had to call me so many times and I ended up calling him back and we had a really great chat for 45 minutes.
 
-That was the last time I spoke to him. 
+That was the last time I spoke to him.
 
-But he knew somehow that he needed to leave me this message that I'm going to cherish for the rest of my life. 
+But he knew somehow that he needed to leave me this message that I'm going to cherish for the rest of my life.
 
 He knew that he needed to call me then because he wasn't going to have an opportunity again.
 
-He knew that he just needed to talk to me. 
-Somehow some way Spencer knew. 
+He knew that he just needed to talk to me. Somehow some way Spencer knew.
 
-Despite feeling low, despite being bloated and having pain and being on painkillers. Knowing that there was a very grim prognosis for him, he
-called me in the middle of the week, last Wednesday. 
+Despite feeling low, despite being bloated and having pain and being on painkillers. Knowing that there was a very grim prognosis for him, he called me in the middle of the week, last Wednesday.
 
 To tell me that he loved me.
 
-Because that's just who he was. 
+Because that's just who he was.
 
-I couldn't imagine my life without him. 
+I couldn't imagine my life without him.
 
-No matter what I did, he was always the prouder, older brother. 
+No matter what I did, he was always the prouder, older brother.
 
-Even when he was unemployed and struggling and really challenged.
-I got a job and I started moving up the ladder and he was always so proud of me.
+Even when he was unemployed and struggling and really challenged. I got a job and I started moving up the ladder and he was always so proud of me.
 
 And looking back
 
 If I were in his shoes, I'd be thinking,
 
-> what a little punk. 
-Why does he get a job. 
-How is he doing this and I'm not? 
-I have the master's degree. 
+> what a little punk. Why does he get a job. How is he doing this and I'm not? I have the master's degree.
 
-There would be so many things going through my mind of how I would
-have reacted to these negative situations.
+There would be so many things going through my mind of how I would have reacted to these negative situations.
 
-But Spencer didn't. 
+But Spencer didn't.
 
-Every time I texted him, he was always so proud of me. 
-He was always so happy for me. 
+Every time I texted him, he was always so proud of me. He was always so happy for me.
 
-I don't know how I would have reacted to all that. 
-I don't know how I would have been non judgmental. 
-Or not angry? 
-At all of these circumstances that happened to me. 
+I don't know how I would have reacted to all that. I don't know how I would have been non judgmental. Or not angry? At all of these circumstances that happened to me.
 
-But no matter what, he was just such a trooper. 
-He was always so positive in the middle of all. 
-Whether his diagnosis or Doctor visits, he would call me and tell me. 
+But no matter what, he was just such a trooper. He was always so positive in the middle of all. Whether his diagnosis or Doctor visits, he would call me and tell me.
 
-> You know what? I'm going to beat this thing. I'm going to stay positive. I'm going to do it. And we're going to beat it. 
+> You know what? I'm going to beat this thing. I'm going to stay positive. I'm going to do it. And we're going to beat it.
 
-He had so much hope. 
-And so much love.
+He had so much hope. And so much love.
 
 I remember one of the last things he told me on that Wednesday.
 
-How amazing our family has been for him. 
-How much support his friends and family have given him all across the world. 
-How amazing his wife was for doing everything for him, taking him to the ER all those times and bearing that burden with him.
+How amazing our family has been for him. How much support his friends and family have given him all across the world. How amazing his wife was for doing everything for him, taking him to the ER all those times and bearing that burden with him.
 
-As I look throughout the years and I think of how amazing of an
-older brother he was. 
+As I look throughout the years and I think of how amazing of an older brother he was.
 
-Every situation that I would have reacted negatively, he
-reacted positively. 
+Every situation that I would have reacted negatively, he reacted positively.
 
-Every person that he met, he left with a good impression
-When I probably would have been judgmental.
+Every person that he met, he left with a good impression When I probably would have been judgmental.
 
-He was a better man. 
+He was a better man.
 
-He was so positive. 
-So Christ like
-So loving. 
+He was so positive. So Christ like So loving.
 
-He set a good example for me, despite everything that he faced.
-He was always encouraging me, always trying to teach me and be
-the supportive older brother that he knew that he needed to be. 
+He set a good example for me, despite everything that he faced. He was always encouraging me, always trying to teach me and be the supportive older brother that he knew that he needed to be.
 
-And last Saturday, before we came down to Arizona on Sunday, for the first time
-in years, I watched college football in our basement.
+And last Saturday, before we came down to Arizona on Sunday, for the first time in years, I watched college football in our basement.
 
-I said to myself, 
+I said to myself,
 
-> Wow, this would be really fun if Spencer gets his chemo treatment and he feels good
-enough, one day I'll fly him up here so we can have another college football
-Saturday that we used to have growing up. 
+> Wow, this would be really fun if Spencer gets his chemo treatment and he feels good enough, one day I'll fly him up here so we can have another college football Saturday that we used to have growing up.
 
-I felt a little bit of Spencer next to me. 
-Looking back at it, it feels very surreal that I almost felt like I had him with me.
-For that one day, the day before he passed, I decided to watch college
-football.
-That I decided to do that one thing that he loves so much doing with
-me. 
+I felt a little bit of Spencer next to me. Looking back at it, it feels very surreal that I almost felt like I had him with me. For that one day, the day before he passed, I decided to watch college football. That I decided to do that one thing that he loves so much doing with me.
 
-And I felt him and that a little part of him was there with me
-I will cherish that moment for the rest of my life.
+And I felt him and that a little part of him was there with me I will cherish that moment for the rest of my life.
 
-I love my brother so much. 
+I love my brother so much.
 
-He's such a good example to me. 
-He was the most Christlike person that I know. 
-And I will miss him dearly.
+He's such a good example to me. He was the most Christlike person that I know. And I will miss him dearly.
 
-And I want to close this with my testimony. 
-I know that I'm going to see him again. 
-And I can't wait to see him and get one of those big bear hugs that he always gives. 
+And I want to close this with my testimony. I know that I'm going to see him again. And I can't wait to see him and get one of those big bear hugs that he always gives.
 
-Because I'm already missing those. 
+Because I'm already missing those.
 
-I know that he's watching over us. 
-And I know that the plan of salvation is real and I can't wait to see him again. 
+I know that he's watching over us. And I know that the plan of salvation is real and I can't wait to see him again.
 
 I say that in the name of Jesus Christ.
 
-### Alfredo Lopez
+![](fall2.jpeg)
 
-Good morning. 
-My name is Alfredo and like all of you, I had the privilege of calling Spencer, my friend. 
+## Alfredo Lopez
 
-I want to give a tribute to Spencer and tell you all the amazing adventures that we went on. 
+Good morning. My name is Alfredo and like all of you, I had the privilege of calling Spencer, my friend.
 
-I really don't remember my life Without Spencer. 
+I want to give a tribute to Spencer and tell you all the amazing adventures that we went on.
 
-When my family moved to the United States from Lima, Peru. Spencer was literally one of my first friends. 
+I really don't remember my life Without Spencer.
 
-So I literally don't remember much at all the adventures we've been on while Spencer being there with me or me calling
-him or reaching out to him or sending him pictures or him sending me pictures back or something awesome that we were doing. 
+When my family moved to the United States from Lima, Peru. Spencer was literally one of my first friends.
 
-We we went to middle school together. 
-We went to Argyle Middle school. 
-And we have a social studies class together. 
+So I literally don't remember much at all the adventures we've been on while Spencer being there with me, - or me calling him, - or reaching out to him, - or sending him pictures, - or him sending me pictures back, - or something awesome that we were doing.
 
-And I was still learning English. 
-And island is spelled ISLAND, right? 
+------------------------------------------------------------------------
 
-The S is silent. So you say island. And I was in the class and I said Iceland because I pronounce the S because in. Spanish you pronounce all the
-letters, especially was like. No, no, don't say it like I'm like, why not?
-That's like you said, he's like, no, that's how you said. I was like. Are you
-sure that doesn't sound right? But and then I told the teacher, I asked her
-about the Iceland and she was like we're talking about. Islands I was like oh.
+We we went to middle school together. We went to Argon Middle school. And we have a social studies class together.
 
-That was my relationship with Spencer. 
+And I was still learning English. And island is spelled ISLAND, right?
+
+The S is silent. So you say island. And I was in the class and I said Iceland because I pronounce the S because in Spanish you pronounce all the letters.
+
+Spencer was like.
+
+No, no, don't say it like that,
+
+I'm like, why not? Are you sure that doesn't sound right?
+
+But and then I told the teacher, I asked her about the Iceland. And she said, we're talking about Islands
+
+I was like, Oh.
+
+That was my relationship with Spencer.
+
+------------------------------------------------------------------------
 
 I called Spencer my personal political adviser.
-whenever I needed something I need to know something. 
-What's going on?
-I always call Spencer or text him. I'll say he's Spencer. What is going on with this cause? He already knew about it, had all the research on it and so he just
-gave me all. The Cliff notes. And it was amazing. 
 
-Spencer was always my mentor. 
+Whenever I needed something or I needed to know something.
 
-I was conflicted whether or not to wear my service uniform today, but
-I'm I'm wearing. It because. 200 Spencer. 10 years ago I enlist in the Marine
-Corps. I now serve in the army, and when I was going through the process of
-which branch to join, who do you think I was calling? I was calling Spencer
-because he knew that his, or about all the branches and what was going on with each
-one of them. So when I went to see the Air Force recruiters right after that, I
-called Spencer. When I went to see the Navy recruiters, then I called Spencer
-and the same thing when they actually didn't even go see all my recruiters. So
-I didn't want anything. With the army. But here I am. And then they went to say
-Marico recruiters, and I called Spencer. He was like, yeah, you should do that
-one I think would be great. And it was terrible. It was. The training was
-horrible. But I stuck through it. And when I graduated, I recruit training in
-San Diego. I called Spencer. I said, hey, man, I did it because we're, you
-know, we're disconnected. Spencer and I, we grew up in what I now I'm calling.
-The fabulous 5. Our fearless leader, our Captain Moroni, was Spencer. He was
-our righteous leader. From the moment we were deacons, he was a deacons
-president, and we knew that we had to follow Spencer because he was always
-ready to do the right thing no matter what it was, and he motivated us all to
-do it. Part of this gang was also Danny Beske. And micro share and Brandon
-Rouse and myself. Now the five of us we grew up together since we were 12, all
-the way to you know, we won our missions and moved on. With our lives, but
-during these formative years and our teenage years. Looking back, Spencer was
-our rock. He was so diligent, so smart. I was talking to Michael and he told me
-that he wanted to be in student like Spencer. So he started meet up with
-Spencer to do his homework together because Spencer he was. He was a very
-serious student and doesn't know about Spencer. He was amazing. I admire him
-for that. But then Michael started to kind of corrupt Spencer. He was like,
-hey, Spencer would have been set of doing homework. We played on the Xbox.
-Let's go play. Some Battlefront and Spencer was like, no, we gotta do homework,
-man. But Spencer was so nice, like he would crack down a few times, but then he
-was like, no, this isn't right. We're not doing this. I was always. Spencer was
-a really kind person and absolutely amazing. But on the sports field he had no
-mercy. I hated to play against him any sport, whether it was soccer, football,
-basketball, because it's kind of sweet as Spencer is. Oh my goodness. On the
-sports field he was he's became a warrior and. I will I. Will run so fast to
-not get tackled for him. Every Turkey bother. With the I always make sure I was
-in Spencer team because I didn't want him chasing me down. And it was awesome
-to see when he joined the high school football team. He loved it and it was great.
-And I was so glad he was there because he was so tough. I like to consider
-myself tough, but no Spencer Spencer is tough, so much more tougher than me.
-Then Spencer service mission in California and he learned that language
-lucianos. The tongue of the heavens. And when he came back and we met up from
-after our missions. It was a brand new world of our friendship, because now I
-still got Spencer. We could talk to the senoritas. I feel like let's go down
-some bachata and salsa, and Spencer was always down. He was like, OK, let's go.
-So, Spencer, we're gonna be coming home at 6:00 in the morning. Was like,
-alright, let's do it. And then he was dead, right? You know, we took care of
-each other. It was so beautiful to see you. How he now could communicate with my
-parents in a. Whole different way growing up with Spencer and the Irvines,
-there are family here. And Spencer was so excited I could see they examined his
-face when he first the first time he talked to my mom in Spanish because his
-Spanish was amazing. You know, it was LA Spanish, which, you know, we forgave
-him for that. But it was still amazing. And he would come and ask my mom for
-the recipes for arroz con pollo and Juan Caina, which are some Peruvian dishes,
-and he loved them. At all the weddings of my family, Spencer was there when my
-sister got married. When I was, when I got married and. It was just awesome.
-Because Spencer is my rock. He was also full of love. And so humble. And one of
-our many. Many camping trips with the scouts. For some reason I didn't have any
-warm gear and I was freezing and Spencer noticed he was hey man, here, take my
-coat. I was like, no, no, you're gonna need it because it was really cold.
-We're. I think we're, I'm sure. We're like mountain in Maryland and we spent
-all night training the coat because I was freezing and he was freezing and I
-was freezing and he was freezing. But you know, we got some sleep. But he took
-care of me and I tried to take care of him. Since you know going into our 30s
-and moving on with our lives and. You know, just living our lives. I would. I
-would still like to check in with Spencer. UM. In the fall of 2021, I got a
-assigned to be deployed to Eastern Europe for a year. In my on my assignment it
-said Kosovo and I was like, where is that? So I made three phone calls. The
-first one was my wife is like hey, I'm getting deployed. I'm leaving for a
-little bit. Then my parents let him know and then Spencer, I was like Spencer,
-what do you know about this place and he knew. All about it. And I was like, amazing.
-He was my Intel guy to the Intel officer. It was awesome, and even when I was
-gone, I was like, hey, Spencer, this is what's going on here because oh, yeah,
-let me. Look up. I'll get back to you. So now. And I don't have an Intel. Guy
-anymore. For now. Because I know I will see him again. Last last Friday, my
-brother texted me and said, hey, I think Spencer is sick. I said, oh, let me
-hit him up, see what's going on. So last Saturday I. Called him. Hey, Spencer.
-I heard you're available and then he can't fill me in. And I was like what? And
-I told him Spencer. You have to beat this thing. Because he had to meet. My
-son, Levi Leva Lopez, was born 3 weeks ago. He said yes. I'm going to do this.
-Like Christian Stevens said, Spencer was extremely positive. The most positive
-person I've met cause I'm gonna beat this thing might get the stream it done.
-And now I said, perfect. When you come back out to Maryland, I'm on. I'm gonna
-kidnap you. Gonna come down to Virginia. We're gonna hang out in the Potomac.
-It's gonna be amazing. He will. Me, my children. And we will go. We will go
-many more adventures. Because that's the gospel is all about. It's internal
-relationships. Friends are like seasons. Some come and go, but not Spencer. It
-was my rock. This restore gosp is. True. And I love it with all my heart. My
-testimony was stronger.
+> What's going on?
 
-Because Spencer.
+I always call Spencer or text him.
 
-I remember the joy in his face he opened. His mission call.
-He was going. To learn Spanish, she was so pumped about that. I look forward.
-To seeing my friend again. My brother. Because I know I will because. Christ
-came to the Earth and he atone for his sense. And Spencer knew that Spencer was
-a faithful disciple of Jesus Christ. She never wavered. He was one of the best
-examples for me. I called my dad and asked him how she organized some of. My
-thoughts today and he replied with this. You can cry because he's gone. Or you
-can smile because of the amazing life that he lived. You can close your eyes
-and pray that he will come back right now. Or you could open your eyes. And
-look at everything that he did that he left behind. Your heart. Can't avoid
-because he's not here anymore. Or it could be full of joy. Because about the
-good times he's and with him. You could cry. You could close your mind and feel
-the emptiness and turn around. Or you could do what he would have wanted you to
-do. Which is smile. Open your eyes, love. And indoor to the end. And so that's
-what I'm going to do. I'm going to smile and honor my friend. But remember all
-the great times we had. I'm going to love. I'm going to talk to people on
-airplanes. I'm like, see. And I'm like, don't talk to me. I put my headphones
-on. I'm gonna watch a movie. I'm going to be more attentive. I'm. Not loved
-deeply. Because that's what Spencer did. Then I'm going to do it till the end.
-Because the only explanation that I have. To this strategy. Is I have new
-father Nita Spencer. By his side. It's how amazing it is. So I have to get
-there too I have. To live this gospel and under this eternal covenants that we
-have with Heavenly Father. I'm so grateful to have the privilege to have spent
-here my life and for him to be my friend and my brother. My family loves me so
-deeply. Every single one of my siblings. There are six of us in total. Seven.
-There are 7 of. Us and each. One of us have unique experiences with Spencer. We
-all love him so much. There isn't a picture from our teenage years that we
-don't have with Spence without Spencer. That the Church of Jesus Christ of
-Latter Day Saints. Is the only true church on this earth. Spencer knew it too.
-And he shared that message with everyone he met with in California. His
-mission. And so thankful for all of you all, and for your support. 
+I'll say,
 
-And I say all these things.
-In the name of our savior, Jesus Christ, Amen.
+> Hey Spencer. What is going on with this cause? He already knew about it, had done all the research on it and so he gave me all the information.
 
+He gave me the Cliff notes as well. And it was amazing.
 
+Spencer was also my mentor -- always.
+
+------------------------------------------------------------------------
+
+I was conflicted whether or not to wear my service uniform today. But I'm wearing it, to honor Spencer.
+
+10 years ago I enlist in the Marine Corps. I now serve in the army. When I was going through the process of which branch to join, who do you think I was calling?
+
+I was calling Spencer. Because he knew all about the branches and what was going on with each one of them.
+
+So when I went to see the Air Force recruiters, right after that, I called Spencer.
+
+When I went to see the Navy recruiters, then I called Spencer.
+
+But not with the Army recruitors, since I didn't want anything to do with the army.
+
+But here I am.
+
+And then, I went to see the Marines recruiters, and I called Spencer.
+
+He was like,
+
+> yeah, you should do that one I think would be great.
+
+And it was terrible. It really was.
+
+The training was horrible.
+
+But I stuck through it. And when I graduated, the recruit training in San Diego. I called Spencer.
+
+I said, hey, man, I did it because of you
+
+------------------------------------------------------------------------
+
+Spencer and I, we grew up in what I now I'm calling `The Fabulous 5`.
+
+Our fearless leader, our Captain Moroni, was Spencer.
+
+He was our righteous leader.
+
+From the moment we were deacons, he was a deacons president. And we knew that we had to follow Spencer because he was always ready to do the right thing no matter what it was. And he motivated us all to do it.
+
+Part of this gang was also Danny B., Michael S., Brandon R. and myself. Now the five of us we grew up together since we were 12, all he way to our missions and then we moved on with our lives
+
+But during these formative years and our teenage years, looking back, Spencer was our rock.
+
+He was so diligent, so smart.
+
+I was talking to Michael and he told me that he wanted to be a student like Spencer.
+
+So he started meet up with Spencer to do his homework together because Spencer was a very serious student.
+
+One thing about Spencer was his dilligence, he was amazing, I admire him for that.
+
+But then Michael started to kind of corrupt Spencer.
+
+He would say,
+
+> hey, Spencer instead of doing homework, what if we played on the Xbox. Let's go play some Battlefront
+
+And Spencer would respond,
+
+> No, we gotta do homework, man.
+
+But Spencer was so nice, so he would crack down a few times. But then he was like, no, this isn't right.
+
+We're not doing this.
+
+------------------------------------------------------------------------
+
+Spencer wasa really kind person and absolutely amazing.
+
+But on the sports field he had no mercy.
+
+I hated to play against him any sport, whether it was soccer, football, basketball.
+
+Because as sweet as Spencer is.
+
+Oh my goodness. On the sports field he became a warrior.
+
+I ran so fast as to not get tackled by him.
+
+For every Turkey Bowl, I always make sure I was on Spencer team. Because I didn't want him chasing me down.
+
+And it was awesome to see when he joined the high school football team. He loved it and it was great.
+
+And I was so glad he was there because he was so tough.
+
+I like to consider myself tough, but no Spencer is tough, so much tougher than me.
+
+------------------------------------------------------------------------
+
+Then Spencer served mission in California and he learned that language `de los ceielos`
+
+The tongue of the heavens.
+
+And when he came back and we met up after our missions.
+
+It was a brand new world of our friendship, because now I still got Spencer, but we could also talk to the senoritas.
+
+I would say,
+
+> let's go down some machaca and salsa,
+
+And Spencer was always down.
+
+He was like,
+
+> OK, let's go.
+
+So, Spencer, we're gonna be coming home at 6:00 in the morning.
+
+He would say,
+
+> Alright, let's do it.
+
+You know, we took care of each other.
+
+------------------------------------------------------------------------
+
+It was so beautiful to see how he now could communicate with my parents in a whole different way.
+
+Growing up with Spencer and the Irvines, they were our families as well.
+
+And Spencer was so excited, I could see that excitement in his face when he first talked to my mom in Spanish.
+
+And his Spanish was amazing. You know, it was LA Spanish, which, we forgave him for that. But it was still amazing.
+
+And he would come and ask my mom for the recipes for Arroz con pollo and Huancaina, which are some Peruvian dishes, and he loved them.
+
+Spencer was always at the weddings of my family He was there when my sister got married. Also when I got married.
+
+It was just awesome.
+
+Because Spencer was my rock. He was also full of love. And so humble.
+
+------------------------------------------------------------------------
+
+This was during one of our many, mMany camping trips with the scouts.
+
+For some reason I didn't have any warm gear and I was freezing.
+
+Spencer noticed that
+
+> Hey man, here, take my coat.
+
+I was like,
+
+> no, no, you're gonna need it because it was really cold.
+
+I think wewre in mountains in western Maryland, Sugarloaf Mountains, and we spent all night trading the coat because I was freezing and he was freezing
+
+But you know, we got some sleep.
+
+He took care of me and I tried to take care of him.
+
+Since then, we grew into our 30s and moved on with our lives.
+
+I would, from time to time, would still check in with Spencer.
+
+------------------------------------------------------------------------
+
+In the fall of 2021, I got assigned to be deployed to Eastern Europe for a year.
+
+It said on my assignment, Kosovo and I was like, where is that?
+
+So I made three phone calls.
+
+The first one was my wife,
+
+> I'm getting deployed. I'm leaving for a little bit.
+
+Then my parents, to let them know.
+
+Then Spencer, I was like,
+
+> Spencer, what do you know about this place?
+
+and he already knew all about it.
+
+And I was like,
+
+> Amazing.
+
+He was my Intel guy to the Intel officer.
+
+It was awesome, and even when I was gone, I would ask,
+
+> hey, Spencer, what's going on here
+
+He would respond,
+
+> let me. Look up. I'll get back to you.
+
+So now, I don't have that Intel guy anymore.
+
+For now.
+
+Because I know I will see him again.
+
+------------------------------------------------------------------------
+
+Last Friday, my brother texted me and said,
+
+> hey, I think Spencer is sick.
+
+I said,
+
+> oh, let me hit him up, see what's going on.
+
+So last Saturday I called him.
+
+> Hey, Spencer, I heard you aren't feeling well.
+
+And he filled me in
+
+And I told Spencer.
+
+> You have to beat this thing.
+
+Because he had to meet my son, Levi Lopez. He was born 3 weeks ago.
+
+Spencer said,
+
+> YES \~ I'm going to do this.
+
+As Kristy and Steven said, Spencer was extremely positive.
+
+The most positive person I've met.
+
+> 'Cause I'm gonna beat this thing and overcome.
+
+And I said, perfect.
+
+When you come back out to Maryland, I'm gonna kidnap you. Gonna go down to Virginia. We're gonna hang out in the Potomac.
+
+It's gonna be amazing.
+
+He will meet my children. And we will go... We will go on many more adventures.
+
+Because that is what the gospel is all about.
+
+It's eternal relationships.
+
+------------------------------------------------------------------------
+
+Friends are like seasons.
+
+Some come and go, but not Spencer.
+
+He was my rock.
+
+This restored gospel is True. And I love it with all my heart. My testimony was stronger.
+
+Because of Spencer.
+
+------------------------------------------------------------------------
+
+I remember the joy in his face when he opened his mission call.
+
+He was going to learn Spanish, he was so pumped about that.
+
+I look forward to seeing my friend again. He is my brother.
+
+Because I know I will because Christ came to the earth and he atoned for our sins. And He knew that Spencer was a faithful disciple of Jesus Christ.
+
+He never wavered. He was one of the best examples for me.
+
+------------------------------------------------------------------------
+
+I called my dad and asked him how I should organized some of my thoughts today.
+
+He replied with this.
+
+You can cry because he's gone. Or
+
+You can smile because of the amazing life that he lived.
+
+You can close your eyes and pray that he will come back right now. Or
+
+You could open your eyes and look at everything that he did that he left behind.
+
+Your heart is void because he's not here anymore. Or it could be full of joy because the good times you had with him.
+
+You could cry. You could close your mind and feel the emptiness and turn around.
+
+Or you could do what he would have wanted you to do.
+
+Which is to smile. Open your eyes and love. And endure to the end.
+
+------------------------------------------------------------------------
+
+And so that's what I'm going to do. I'm going to smile and honor my friend.
+
+And remember all the great times we had.
+
+I'm going to love. I'm going to talk to people on airplanes.
+
+I'm going to be more attentive.
+
+I'm going to love deeply.
+
+Because that's what Spencer did. That is what I'm going to do --- \`till the end.
+
+Because the only explanation that I have is this, that Heavenly Father needed Spencer. By His side.
+
+Because that is how amazing he is. So I have to get there too
+
+I have to live this gospel and under the eternal covenants that we have with Heavenly Father.
+
+------------------------------------------------------------------------
+
+I'm so grateful to have the privilege to have spent my life with him. And for him to be my friend and my brother.
+
+My family loves me so deeply.
+
+Every single one of my siblings. There are six of us in total. We all have unique experiences with Spencer.
+
+We all love him so much.
+
+There isn't a picture from our teenage years that are without Spencer in it.
+
+I know that this gospel is true. The Church of Jesus Christ of Latter Day Saints is the only true church on this earth.
+
+Spencer knew it too.
+
+And he shared that message with everyone he met in California.
+
+That was his mission.
+
+And so thankful for all of you, and for your support.
+
+And I say all these things. In the name of our savior, Jesus Christ, Amen.
+
+![](provo_temple.jpg)
+## Bishop McCormack
+
+Two favorite songs that all primary children sing. 
+
+`I'm a child of God` and `Families Can Be Together Forever`. 
+
+Tw0 basic truths of the gospel. 
+
+Thank you to all family and friends for their beautiful messages and
+music this morning. 
+
+The Spirit was felt here in this Chapel. 
+
+If I can ask you to please take your hymnal out and turn to the hymn #86 that we
+sang this morning. (See @sec-great_thou)
+
+This hymn was not written by Emma Smith or one of the members of the past as the majority of songs in this book were. 
+
+We adopted this hymn because it brings to the focus, the fundamental plan of
+happiness, the main theme in the Book of Mormon. 
+
+In the first verse, the prominent section gives God, the glory for creating a world where we could come to gain the experience we need to grow up. 
+
+We need to grow up to be like our Heavenly Father. 
+
+Please turn your attention to the next verse, which brings us
+to the experience. the wonders of this earth. And the joy within
+
+In Galatians 5:22 and 23 , it reads. 
+
+>  But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance: against such there is no law.
+
+That's what Spencer represented. 
+
+We are here to be happy.
+
+Joseph Smith said. 
+
+It is the the design of our existence. 
+
+Now, as with all things, there needs to be an opposite. 
+If not, we could not grow or have the agency to choose and make decisions for ourselves without depending on others to make them for us. 
+
+To be forced without agency is evil, and this is what the adversary wants. 
+And since we are imperfect and expected to be imperfect,
+our Father's Plan is to send His Son, His only begotten to redeem us from our
+imperfection, or save us from our mistakes. 
+
+In the third verse is the one that tears at me. 
+It's the one that when I ponder it, there's something. 
+There's someone who loves me so much that would sacrifice Himself to go through such
+terrible experiences in the Garden of Gethsemane so that he can know my
+experiences of pain. 
+
+Through this act, in which no one understands how it works.
+He knows what we feel when someone we love without any fault of their own
+departs from this earth. 
+
+As the verse says. 
+`I scarce can take it in`. 
+
+However, brothers and sisters, there's hope. 
+Meaning, whether we believe it or not, there comes a time when the Savior will return to embrace and congratulate us.
+
+For, as we say in our faith, endure to the end. 
+
+`Then I shall bow in humble adoration`. 
+`And there proclaim my God`. 
+`How great thou art`. 
+
+In 2 Nephi 4, Lehi blesses his posterity and passes away. 
+
+In reading Nephi's words, Nephi seem initially and understandably, to have a difficult time with his father's passing. 
+
+In verse 13, Nephi stated that his brothers, Laman and Lemuel were angry with him. 
+
+Can you imagine the scenario of all the trials that Nephi had gone through because of
+his brothers? 
+
+And then on top of all of that, the Lord said, 
+
+> Don't Nephi. You are not allowed to say anymore to them. 
+
+For the next few verses, Nephi remembers all that the Lord has done for him. 
+
+He remembers this because there was a choice he had to make. 
+
+He's been through many afflictions and remember he's grieving or mourning his father's death. 
+
+This is what he said in verse 27. 
+
+> And why should I yield to sin, because of my flesh? Yea, why should I give way to temptations, that the evil one have place in my heart to destroy my peace and afflict my soul? Why am I angry because of mine enemy?
+
+He's Speaking of Laman and Lemuel. 
+
+> Awake, my soul! No longer droop in sin. Rejoice, O my heart, and give place no more for the enemy of my soul.
+
+> Do not anger again because of mine enemies. Do not slacken my strength because of mine afflictions.
+
+I ask you to please read the last five verses of the end of Nephi Chapter 4. 
+Nephi pulls himself together and teaches us how to turn to the Lord to help in times of affliction. 
+
+These verses are very personal to him. 
+And if you think of how he's feeling when he writes these verses. 
+There's a parallel here with Nephi. 
+
+During a very vulnerable time for him after losing his father. 
+And with all of us grieving the loss of Spencer. 
+
+In my opinion, Nephi's personal struggle and passion is more apparent in these verses than in any other of his writings. 
+
+In verse 30, it begins with this with this prayer and pleas. 
+I ask you to put yourself in his place. 
+And repeat this prayer in your mind. 
+And Nephi asks that you pray unto the Lord in this manner. 
+
+In verse 30. 
+
+> O Lord, I will praise thee forever; yea, my soul will rejoice in thee, my God, and the rock of my salvation.
+
+> O Lord, wilt thou redeem my soul? Wilt thou deliver me out of the hands of mine enemies? Wilt thou make me that I may shake at the appearance of sin?
+
+He continues, in verse 33
+
+> O Lord, wilt thou encircle me around in the robe of thy righteousness! O Lord, wilt thou make a way for mine escape before mine enemies! Wilt thou make my path straight before me! Wilt thou not place a stumbling block in my way—but that thou wouldst clear my way before me, and hedge not up my way, but the ways of mine enemy.
+
+> O Lord, I have trusted in thee, and I will trust in thee forever. I will not put my trust in the arm of flesh; for I know that cursed is he that putteth his trust in the arm of flesh. Yea, cursed is he that putteth his trust in man or maketh flesh his arm.
+
+> Yea, I know that God will give liberally to him that asketh. Yea, my God will give me, if I bask cnot amiss; therefore I will lift up my voice unto thee; yea, I will cry unto thee, my God, the drock of my erighteousness. Behold, my voice shall forever ascend up unto thee, my rock and mine everlasting God. Amen.
+
+I would like to bear in my testimony that I know God lives. 
+He loves us. 
+He sent his Son to redeem us. 
+
+I know that Joseph Smith is a prophet of God 
+And he translated the Book of Mormon by the power of God. 
+
+I know that the Church of Jesus Christ of Latter-day Saints is the church here on this earth today
+
+And I know that this church is led by a prophet, a living prophet, who receives revelation
+
+Thank you all for being here.
+
+Meg, We love you.
+
+We love your family. 
+Although for a short time, I know that they love you. 
+You have such great support. 
+And it goes without saying that Spencer was such a great guy. 
+
+I leave you with a blessing that you will always stay close to the gospel. 
+He's smiling down and up on us right now. 
+
+I know who he is. 
+
+And I say these things, in the name of Jesus Christ, Amen.
+
+## Closing Prayer - Elijah Nunez
+
+Our dear Heavenly Father. 
+We thank thee for this day that thou hast blessed us with. 
+
+For the time that we have now to say goodbye to Spencer in this life. 
+We're grateful for many years and the time that thou hast blessed us to be with him in this life.
+And to know him, to love him. 
+
+We thank thee for this gospel and for the plan of salvation.
+We're grateful for the promise of being able to live and be with our loved ones again. 
+
+We ask thee to please bless us this time as we say goodbye. 
+So that we continue to remember, Spencer.
+
+That we'll be looking for opportunities in our life to love and serve the people
+around us.
+
+With happiness and kindness. 
+
+We asked thee to please continue to bless us all. 
+T0 continue to have the Spirit with us.
+Help us, to do our best, as we live in this life. 
+
+We love thee and say these things in the name of Jesus
+Christ, Amen.
 
 ```{=html}
 <script src="https://utteranc.es/client.js"

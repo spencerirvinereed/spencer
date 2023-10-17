@@ -1,0 +1,29 @@
+---
+title: "Interment at Mesa Cemetery"
+author: "Uncle David"
+date: "2023-10-01"
+draft: true
+categories: [burial]
+---
+
+![](site.jpg)
+
+![](Spencer Irvine-74.jpg)
+
+![At Mesa Temple, Aged 6](young.JPG){style="float:right;" fig-alt="At Marriage of an Aunt, 1994" width="201"}
+
+
+![At a Wedding, Mid 20s](peak.jpg){style="float:right;" fig-alt="At Marriage of a Friend" width="401"}
+
+
+
+
+```{=html}
+<script src="https://utteranc.es/client.js"
+repo="https://github.com/spencerirvinereed/blogComment"
+issue-term="pathname"
+theme="github-light"
+crossorigin="anonymous"
+async>
+</script>
+```

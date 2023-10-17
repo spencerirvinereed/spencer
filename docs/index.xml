@@ -495,23 +495,23 @@ Click to listen
 <div class="cell">
 <div class="cell-output-display">
 
-<div id="gegafcwglr" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#gegafcwglr table {
+<div id="grlyvvapql" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#grlyvvapql table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#gegafcwglr thead, #gegafcwglr tbody, #gegafcwglr tfoot, #gegafcwglr tr, #gegafcwglr td, #gegafcwglr th {
+#grlyvvapql thead, #grlyvvapql tbody, #grlyvvapql tfoot, #grlyvvapql tr, #grlyvvapql td, #grlyvvapql th {
   border-style: none;
 }
 
-#gegafcwglr p {
+#grlyvvapql p {
   margin: 0;
   padding: 0;
 }
 
-#gegafcwglr .gt_table {
+#grlyvvapql .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -537,12 +537,12 @@ Click to listen
   border-left-color: #D3D3D3;
 }
 
-#gegafcwglr .gt_caption {
+#grlyvvapql .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#gegafcwglr .gt_title {
+#grlyvvapql .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -554,7 +554,7 @@ Click to listen
   border-bottom-width: 0;
 }
 
-#gegafcwglr .gt_subtitle {
+#grlyvvapql .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -566,7 +566,7 @@ Click to listen
   border-top-width: 0;
 }
 
-#gegafcwglr .gt_heading {
+#grlyvvapql .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -578,13 +578,13 @@ Click to listen
   border-right-color: #D3D3D3;
 }
 
-#gegafcwglr .gt_bottom_border {
+#grlyvvapql .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#gegafcwglr .gt_col_headings {
+#grlyvvapql .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -599,7 +599,7 @@ Click to listen
   border-right-color: #D3D3D3;
 }
 
-#gegafcwglr .gt_col_heading {
+#grlyvvapql .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -619,7 +619,7 @@ Click to listen
   overflow-x: hidden;
 }
 
-#gegafcwglr .gt_column_spanner_outer {
+#grlyvvapql .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -631,15 +631,15 @@ Click to listen
   padding-right: 4px;
 }
 
-#gegafcwglr .gt_column_spanner_outer:first-child {
+#grlyvvapql .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#gegafcwglr .gt_column_spanner_outer:last-child {
+#grlyvvapql .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#gegafcwglr .gt_column_spanner {
+#grlyvvapql .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -651,11 +651,11 @@ Click to listen
   width: 100%;
 }
 
-#gegafcwglr .gt_spanner_row {
+#grlyvvapql .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#gegafcwglr .gt_group_heading {
+#grlyvvapql .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -681,7 +681,7 @@ Click to listen
   text-align: left;
 }
 
-#gegafcwglr .gt_empty_group_heading {
+#grlyvvapql .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -696,15 +696,15 @@ Click to listen
   vertical-align: middle;
 }
 
-#gegafcwglr .gt_from_md > :first-child {
+#grlyvvapql .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#gegafcwglr .gt_from_md > :last-child {
+#grlyvvapql .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#gegafcwglr .gt_row {
+#grlyvvapql .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -723,7 +723,7 @@ Click to listen
   overflow-x: hidden;
 }
 
-#gegafcwglr .gt_stub {
+#grlyvvapql .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -736,7 +736,7 @@ Click to listen
   padding-right: 5px;
 }
 
-#gegafcwglr .gt_stub_row_group {
+#grlyvvapql .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -750,15 +750,15 @@ Click to listen
   vertical-align: top;
 }
 
-#gegafcwglr .gt_row_group_first td {
+#grlyvvapql .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#gegafcwglr .gt_row_group_first th {
+#grlyvvapql .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#gegafcwglr .gt_summary_row {
+#grlyvvapql .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -768,16 +768,16 @@ Click to listen
   padding-right: 5px;
 }
 
-#gegafcwglr .gt_first_summary_row {
+#grlyvvapql .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#gegafcwglr .gt_first_summary_row.thick {
+#grlyvvapql .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#gegafcwglr .gt_last_summary_row {
+#grlyvvapql .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -787,7 +787,7 @@ Click to listen
   border-bottom-color: #D3D3D3;
 }
 
-#gegafcwglr .gt_grand_summary_row {
+#grlyvvapql .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -797,7 +797,7 @@ Click to listen
   padding-right: 5px;
 }
 
-#gegafcwglr .gt_first_grand_summary_row {
+#grlyvvapql .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -807,7 +807,7 @@ Click to listen
   border-top-color: #D3D3D3;
 }
 
-#gegafcwglr .gt_last_grand_summary_row_top {
+#grlyvvapql .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -817,11 +817,11 @@ Click to listen
   border-bottom-color: #D3D3D3;
 }
 
-#gegafcwglr .gt_striped {
+#grlyvvapql .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#gegafcwglr .gt_table_body {
+#grlyvvapql .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -830,7 +830,7 @@ Click to listen
   border-bottom-color: #D3D3D3;
 }
 
-#gegafcwglr .gt_footnotes {
+#grlyvvapql .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -844,7 +844,7 @@ Click to listen
   border-right-color: #D3D3D3;
 }
 
-#gegafcwglr .gt_footnote {
+#grlyvvapql .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -853,7 +853,7 @@ Click to listen
   padding-right: 5px;
 }
 
-#gegafcwglr .gt_sourcenotes {
+#grlyvvapql .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -867,7 +867,7 @@ Click to listen
   border-right-color: #D3D3D3;
 }
 
-#gegafcwglr .gt_sourcenote {
+#grlyvvapql .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -875,63 +875,63 @@ Click to listen
   padding-right: 5px;
 }
 
-#gegafcwglr .gt_left {
+#grlyvvapql .gt_left {
   text-align: left;
 }
 
-#gegafcwglr .gt_center {
+#grlyvvapql .gt_center {
   text-align: center;
 }
 
-#gegafcwglr .gt_right {
+#grlyvvapql .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#gegafcwglr .gt_font_normal {
+#grlyvvapql .gt_font_normal {
   font-weight: normal;
 }
 
-#gegafcwglr .gt_font_bold {
+#grlyvvapql .gt_font_bold {
   font-weight: bold;
 }
 
-#gegafcwglr .gt_font_italic {
+#grlyvvapql .gt_font_italic {
   font-style: italic;
 }
 
-#gegafcwglr .gt_super {
+#grlyvvapql .gt_super {
   font-size: 65%;
 }
 
-#gegafcwglr .gt_footnote_marks {
+#grlyvvapql .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#gegafcwglr .gt_asterisk {
+#grlyvvapql .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#gegafcwglr .gt_indent_1 {
+#grlyvvapql .gt_indent_1 {
   text-indent: 5px;
 }
 
-#gegafcwglr .gt_indent_2 {
+#grlyvvapql .gt_indent_2 {
   text-indent: 10px;
 }
 
-#gegafcwglr .gt_indent_3 {
+#grlyvvapql .gt_indent_3 {
   text-indent: 15px;
 }
 
-#gegafcwglr .gt_indent_4 {
+#grlyvvapql .gt_indent_4 {
   text-indent: 20px;
 }
 
-#gegafcwglr .gt_indent_5 {
+#grlyvvapql .gt_indent_5 {
   text-indent: 25px;
 }
 </style>
@@ -986,8 +986,8 @@ Click to listen
 </div>
 </div>
 </section>
-<section id="how-great-thou-art1" class="level2">
-<h2 class="anchored" data-anchor-id="how-great-thou-art1">How Great Thou Art<sup>1</sup></h2>
+<section id="sec-great_thou" class="level2">
+<h2 class="anchored" data-anchor-id="sec-great_thou">How Great Thou Art<sup>1</sup></h2>
 <ol type="1">
 <li>O Lord my God, when I in awesome wonder Consider all the <em>worlds thy hands have made, I see the stars, I hear the</em> rolling thunder, Thy pow’r thru-out the universe displayed;</li>
 </ol>
@@ -1031,7 +1031,7 @@ Click to listen
 <i class="callout-icon"></i>
 </div>
 <div class="callout-caption-container flex-fill">
-These files contains audio, may need to adjust volume accordingly
+These files contains audio, may need to adjust volume accordingly. Also note that the recording of hymns have less fidelity than the recording of speakers.
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -1054,16 +1054,15 @@ Click to Listen
 <h2 class="anchored" data-anchor-id="video-recording">Video Recording</h2>
 <p><a href="https://zoom.us/rec/share/L5Ihxve8iWl8dJ4kON-dJqW1cYdH1w6WJbNQohGnX_nA7wTda-ywE2_R3E9ZuuTk.VaY52zecFbg8Xaxd?iet=kPac2FZC5Pa6jFlUE1H-B4t3Ya7L1S65irqT6ODcTFw.AG.Uwp7h3h6VdnIuZkILyKtLsQHMLIuWjRcHjxjRC_XhGzhJpR0JjI9scqo3L2Tx6Aetgn7sphd9ifZCJR0DRraC_v-A_Oo1M9Mcv9POaSErnofY-5c2oWt-ykag5XqsA.s021rntHoL5nwx-CkZXbZA.FJR_Z8wXYgsem4o0">Link to Zoom Recording</a></p>
 </section>
-<section id="transcript" class="level2">
-<h2 class="anchored" data-anchor-id="transcript">Transcript</h2>
-<section id="bishop-mccormack" class="level3">
-<h3 class="anchored" data-anchor-id="bishop-mccormack">Bishop McCormack</h3>
+<section id="transcript" class="level1">
+<h1>Transcript</h1>
+<section id="bishop-mccormack" class="level2">
+<h2 class="anchored" data-anchor-id="bishop-mccormack">Bishop McCormack</h2>
 <p>Brothers and Sisters, family and friends.</p>
 <p>Welcome to the Camelview Ward and a celebration of the life of Spencer Irvine.</p>
 <p>My name is Bishop McCormack and presiding at this service is President Bruce from the stake presidency. And he has asked me to conduct.</p>
 <p>A warm thank you to Brandon Turley for playing the piano and to Bree Irvine. She’ll be conducting the music.</p>
 <p>We’ll begin this service by saying hymn number #86, How Great Thou Art. Following we will have our opening prayer by Barry Turley.</p>
-</section>
 </section>
 <section id="opening-prayer---bary-turley" class="level2">
 <h2 class="anchored" data-anchor-id="opening-prayer---bary-turley">Opening Prayer - Bary Turley</h2>
@@ -1074,15 +1073,17 @@ Click to Listen
 <p>Please help us to, use it as a catalyst to. Become better. Better families,individuals and more Christ like – as Spencer was.</p>
 <p>We are grateful for the many blessings that Thou gives us for the gospel, For the Knowledge and comfort that we will one day be able to. See and be With him again, and</p>
 <p>We say these things humbly in the name of Jesus Christ, Amen.</p>
-<section id="bishop-mccormack-1" class="level3">
-<h3 class="anchored" data-anchor-id="bishop-mccormack-1">Bishop McCormack</h3>
+</section>
+<section id="bishop-mccormack-1" class="level2">
+<h2 class="anchored" data-anchor-id="bishop-mccormack-1">Bishop McCormack</h2>
 <p>We have a few speakers this morning.</p>
 <p>First, the tribute to Spencer by his sister, Kristy Tidwell.</p>
 <p>We will then pause to hear John and Sarah Gonzales singing my shepherd.</p>
 <p>Following the musical number, a eulogy will be given by Steven Irvine. Following Stephen, Alfredo Lopez, (Spencer’s friend), will say a few words.</p>
+<p><img src="https://spencerirvinereed.github.io/spencer/posts/20230930 The Funeral/fall1.jpeg" class="img-fluid"></p>
 </section>
-<section id="kristy-irvine" class="level3">
-<h3 class="anchored" data-anchor-id="kristy-irvine">Kristy Irvine</h3>
+<section id="kristy-irvine" class="level2">
+<h2 class="anchored" data-anchor-id="kristy-irvine">Kristy Irvine</h2>
 <p>My hope and prayer today is that the the spirit can be with me.</p>
 <p>To help me get through this.</p>
 <p>It took a long time for me to think about how I could give Spencer, a proper tribute to, who he was.</p>
@@ -1187,9 +1188,10 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
 <p>May we take the example that Spencer set for us and following the Savior that we may invite the Savior more fully into our lives and willingly give our shortcomings to him that he may help us be perfect in Him.</p>
 <p>My testimony is that Sunday will come that glorious day when we will be reunited with those we love and rejoice in the great gift that the Savior has given us through his sacrifice in the name of Jesus Christ, Amen.</p>
 <hr>
+<p><img src="https://spencerirvinereed.github.io/spencer/posts/20230930 The Funeral/distant_mtn.jpeg" class="img-fluid"></p>
 </section>
-<section id="steven-irvine" class="level3">
-<h3 class="anchored" data-anchor-id="steven-irvine">Steven Irvine</h3>
+<section id="steven-irvine" class="level2">
+<h2 class="anchored" data-anchor-id="steven-irvine">Steven Irvine</h2>
 <p>Spencer was a special person.</p>
 <p>As you heard from Kristy, he was the most Christ like.</p>
 <p>Kind, caring, loving person that I know.</p>
@@ -1291,6 +1293,335 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
 <p>Because I’m already missing those.</p>
 <p>I know that he’s watching over us. And I know that the plan of salvation is real and I can’t wait to see him again.</p>
 <p>I say that in the name of Jesus Christ.</p>
+<p><img src="https://spencerirvinereed.github.io/spencer/posts/20230930 The Funeral/fall2.jpeg" class="img-fluid"></p>
+</section>
+<section id="alfredo-lopez" class="level2">
+<h2 class="anchored" data-anchor-id="alfredo-lopez">Alfredo Lopez</h2>
+<p>Good morning. My name is Alfredo and like all of you, I had the privilege of calling Spencer, my friend.</p>
+<p>I want to give a tribute to Spencer and tell you all the amazing adventures that we went on.</p>
+<p>I really don’t remember my life Without Spencer.</p>
+<p>When my family moved to the United States from Lima, Peru. Spencer was literally one of my first friends.</p>
+<p>So I literally don’t remember much at all the adventures we’ve been on while Spencer being there with me, - or me calling him, - or reaching out to him, - or sending him pictures, - or him sending me pictures back, - or something awesome that we were doing.</p>
+<hr>
+<p>We we went to middle school together. We went to Argon Middle school. And we have a social studies class together.</p>
+<p>And I was still learning English. And island is spelled ISLAND, right?</p>
+<p>The S is silent. So you say island. And I was in the class and I said Iceland because I pronounce the S because in Spanish you pronounce all the letters.</p>
+<p>Spencer was like.</p>
+<p>No, no, don’t say it like that,</p>
+<p>I’m like, why not? Are you sure that doesn’t sound right?</p>
+<p>But and then I told the teacher, I asked her about the Iceland. And she said, we’re talking about Islands</p>
+<p>I was like, Oh.</p>
+<p>That was my relationship with Spencer.</p>
+<hr>
+<p>I called Spencer my personal political adviser.</p>
+<p>Whenever I needed something or I needed to know something.</p>
+<blockquote class="blockquote">
+<p>What’s going on?</p>
+</blockquote>
+<p>I always call Spencer or text him.</p>
+<p>I’ll say,</p>
+<blockquote class="blockquote">
+<p>Hey Spencer. What is going on with this cause? He already knew about it, had done all the research on it and so he gave me all the information.</p>
+</blockquote>
+<p>He gave me the Cliff notes as well. And it was amazing.</p>
+<p>Spencer was also my mentor – always.</p>
+<hr>
+<p>I was conflicted whether or not to wear my service uniform today. But I’m wearing it, to honor Spencer.</p>
+<p>10 years ago I enlist in the Marine Corps. I now serve in the army. When I was going through the process of which branch to join, who do you think I was calling?</p>
+<p>I was calling Spencer. Because he knew all about the branches and what was going on with each one of them.</p>
+<p>So when I went to see the Air Force recruiters, right after that, I called Spencer.</p>
+<p>When I went to see the Navy recruiters, then I called Spencer.</p>
+<p>But not with the Army recruitors, since I didn’t want anything to do with the army.</p>
+<p>But here I am.</p>
+<p>And then, I went to see the Marines recruiters, and I called Spencer.</p>
+<p>He was like,</p>
+<blockquote class="blockquote">
+<p>yeah, you should do that one I think would be great.</p>
+</blockquote>
+<p>And it was terrible. It really was.</p>
+<p>The training was horrible.</p>
+<p>But I stuck through it. And when I graduated, the recruit training in San Diego. I called Spencer.</p>
+<p>I said, hey, man, I did it because of you</p>
+<hr>
+<p>Spencer and I, we grew up in what I now I’m calling <code>The Fabulous 5</code>.</p>
+<p>Our fearless leader, our Captain Moroni, was Spencer.</p>
+<p>He was our righteous leader.</p>
+<p>From the moment we were deacons, he was a deacons president. And we knew that we had to follow Spencer because he was always ready to do the right thing no matter what it was. And he motivated us all to do it.</p>
+<p>Part of this gang was also Danny B., Michael S., Brandon R. and myself. Now the five of us we grew up together since we were 12, all he way to our missions and then we moved on with our lives</p>
+<p>But during these formative years and our teenage years, looking back, Spencer was our rock.</p>
+<p>He was so diligent, so smart.</p>
+<p>I was talking to Michael and he told me that he wanted to be a student like Spencer.</p>
+<p>So he started meet up with Spencer to do his homework together because Spencer was a very serious student.</p>
+<p>One thing about Spencer was his dilligence, he was amazing, I admire him for that.</p>
+<p>But then Michael started to kind of corrupt Spencer.</p>
+<p>He would say,</p>
+<blockquote class="blockquote">
+<p>hey, Spencer instead of doing homework, what if we played on the Xbox. Let’s go play some Battlefront</p>
+</blockquote>
+<p>And Spencer would respond,</p>
+<blockquote class="blockquote">
+<p>No, we gotta do homework, man.</p>
+</blockquote>
+<p>But Spencer was so nice, so he would crack down a few times. But then he was like, no, this isn’t right.</p>
+<p>We’re not doing this.</p>
+<hr>
+<p>Spencer wasa really kind person and absolutely amazing.</p>
+<p>But on the sports field he had no mercy.</p>
+<p>I hated to play against him any sport, whether it was soccer, football, basketball.</p>
+<p>Because as sweet as Spencer is.</p>
+<p>Oh my goodness. On the sports field he became a warrior.</p>
+<p>I ran so fast as to not get tackled by him.</p>
+<p>For every Turkey Bowl, I always make sure I was on Spencer team. Because I didn’t want him chasing me down.</p>
+<p>And it was awesome to see when he joined the high school football team. He loved it and it was great.</p>
+<p>And I was so glad he was there because he was so tough.</p>
+<p>I like to consider myself tough, but no Spencer is tough, so much tougher than me.</p>
+<hr>
+<p>Then Spencer served mission in California and he learned that language <code>de los ceielos</code></p>
+<p>The tongue of the heavens.</p>
+<p>And when he came back and we met up after our missions.</p>
+<p>It was a brand new world of our friendship, because now I still got Spencer, but we could also talk to the senoritas.</p>
+<p>I would say,</p>
+<blockquote class="blockquote">
+<p>let’s go down some machaca and salsa,</p>
+</blockquote>
+<p>And Spencer was always down.</p>
+<p>He was like,</p>
+<blockquote class="blockquote">
+<p>OK, let’s go.</p>
+</blockquote>
+<p>So, Spencer, we’re gonna be coming home at 6:00 in the morning.</p>
+<p>He would say,</p>
+<blockquote class="blockquote">
+<p>Alright, let’s do it.</p>
+</blockquote>
+<p>You know, we took care of each other.</p>
+<hr>
+<p>It was so beautiful to see how he now could communicate with my parents in a whole different way.</p>
+<p>Growing up with Spencer and the Irvines, they were our families as well.</p>
+<p>And Spencer was so excited, I could see that excitement in his face when he first talked to my mom in Spanish.</p>
+<p>And his Spanish was amazing. You know, it was LA Spanish, which, we forgave him for that. But it was still amazing.</p>
+<p>And he would come and ask my mom for the recipes for Arroz con pollo and Huancaina, which are some Peruvian dishes, and he loved them.</p>
+<p>Spencer was always at the weddings of my family He was there when my sister got married. Also when I got married.</p>
+<p>It was just awesome.</p>
+<p>Because Spencer was my rock. He was also full of love. And so humble.</p>
+<hr>
+<p>This was during one of our many, mMany camping trips with the scouts.</p>
+<p>For some reason I didn’t have any warm gear and I was freezing.</p>
+<p>Spencer noticed that</p>
+<blockquote class="blockquote">
+<p>Hey man, here, take my coat.</p>
+</blockquote>
+<p>I was like,</p>
+<blockquote class="blockquote">
+<p>no, no, you’re gonna need it because it was really cold.</p>
+</blockquote>
+<p>I think wewre in mountains in western Maryland, Sugarloaf Mountains, and we spent all night trading the coat because I was freezing and he was freezing</p>
+<p>But you know, we got some sleep.</p>
+<p>He took care of me and I tried to take care of him.</p>
+<p>Since then, we grew into our 30s and moved on with our lives.</p>
+<p>I would, from time to time, would still check in with Spencer.</p>
+<hr>
+<p>In the fall of 2021, I got assigned to be deployed to Eastern Europe for a year.</p>
+<p>It said on my assignment, Kosovo and I was like, where is that?</p>
+<p>So I made three phone calls.</p>
+<p>The first one was my wife,</p>
+<blockquote class="blockquote">
+<p>I’m getting deployed. I’m leaving for a little bit.</p>
+</blockquote>
+<p>Then my parents, to let them know.</p>
+<p>Then Spencer, I was like,</p>
+<blockquote class="blockquote">
+<p>Spencer, what do you know about this place?</p>
+</blockquote>
+<p>and he already knew all about it.</p>
+<p>And I was like,</p>
+<blockquote class="blockquote">
+<p>Amazing.</p>
+</blockquote>
+<p>He was my Intel guy to the Intel officer.</p>
+<p>It was awesome, and even when I was gone, I would ask,</p>
+<blockquote class="blockquote">
+<p>hey, Spencer, what’s going on here</p>
+</blockquote>
+<p>He would respond,</p>
+<blockquote class="blockquote">
+<p>let me. Look up. I’ll get back to you.</p>
+</blockquote>
+<p>So now, I don’t have that Intel guy anymore.</p>
+<p>For now.</p>
+<p>Because I know I will see him again.</p>
+<hr>
+<p>Last Friday, my brother texted me and said,</p>
+<blockquote class="blockquote">
+<p>hey, I think Spencer is sick.</p>
+</blockquote>
+<p>I said,</p>
+<blockquote class="blockquote">
+<p>oh, let me hit him up, see what’s going on.</p>
+</blockquote>
+<p>So last Saturday I called him.</p>
+<blockquote class="blockquote">
+<p>Hey, Spencer, I heard you aren’t feeling well.</p>
+</blockquote>
+<p>And he filled me in</p>
+<p>And I told Spencer.</p>
+<blockquote class="blockquote">
+<p>You have to beat this thing.</p>
+</blockquote>
+<p>Because he had to meet my son, Levi Lopez. He was born 3 weeks ago.</p>
+<p>Spencer said,</p>
+<blockquote class="blockquote">
+<p>YES ~ I’m going to do this.</p>
+</blockquote>
+<p>As Kristy and Steven said, Spencer was extremely positive.</p>
+<p>The most positive person I’ve met.</p>
+<blockquote class="blockquote">
+<p>’Cause I’m gonna beat this thing and overcome.</p>
+</blockquote>
+<p>And I said, perfect.</p>
+<p>When you come back out to Maryland, I’m gonna kidnap you. Gonna go down to Virginia. We’re gonna hang out in the Potomac.</p>
+<p>It’s gonna be amazing.</p>
+<p>He will meet my children. And we will go… We will go on many more adventures.</p>
+<p>Because that is what the gospel is all about.</p>
+<p>It’s eternal relationships.</p>
+<hr>
+<p>Friends are like seasons.</p>
+<p>Some come and go, but not Spencer.</p>
+<p>He was my rock.</p>
+<p>This restored gospel is True. And I love it with all my heart. My testimony was stronger.</p>
+<p>Because of Spencer.</p>
+<hr>
+<p>I remember the joy in his face when he opened his mission call.</p>
+<p>He was going to learn Spanish, he was so pumped about that.</p>
+<p>I look forward to seeing my friend again. He is my brother.</p>
+<p>Because I know I will because Christ came to the earth and he atoned for our sins. And He knew that Spencer was a faithful disciple of Jesus Christ.</p>
+<p>He never wavered. He was one of the best examples for me.</p>
+<hr>
+<p>I called my dad and asked him how I should organized some of my thoughts today.</p>
+<p>He replied with this.</p>
+<p>You can cry because he’s gone. Or</p>
+<p>You can smile because of the amazing life that he lived.</p>
+<p>You can close your eyes and pray that he will come back right now. Or</p>
+<p>You could open your eyes and look at everything that he did that he left behind.</p>
+<p>Your heart is void because he’s not here anymore. Or it could be full of joy because the good times you had with him.</p>
+<p>You could cry. You could close your mind and feel the emptiness and turn around.</p>
+<p>Or you could do what he would have wanted you to do.</p>
+<p>Which is to smile. Open your eyes and love. And endure to the end.</p>
+<hr>
+<p>And so that’s what I’m going to do. I’m going to smile and honor my friend.</p>
+<p>And remember all the great times we had.</p>
+<p>I’m going to love. I’m going to talk to people on airplanes.</p>
+<p>I’m going to be more attentive.</p>
+<p>I’m going to love deeply.</p>
+<p>Because that’s what Spencer did. That is what I’m going to do — `till the end.</p>
+<p>Because the only explanation that I have is this, that Heavenly Father needed Spencer. By His side.</p>
+<p>Because that is how amazing he is. So I have to get there too</p>
+<p>I have to live this gospel and under the eternal covenants that we have with Heavenly Father.</p>
+<hr>
+<p>I’m so grateful to have the privilege to have spent my life with him. And for him to be my friend and my brother.</p>
+<p>My family loves me so deeply.</p>
+<p>Every single one of my siblings. There are six of us in total. We all have unique experiences with Spencer.</p>
+<p>We all love him so much.</p>
+<p>There isn’t a picture from our teenage years that are without Spencer in it.</p>
+<p>I know that this gospel is true. The Church of Jesus Christ of Latter Day Saints is the only true church on this earth.</p>
+<p>Spencer knew it too.</p>
+<p>And he shared that message with everyone he met in California.</p>
+<p>That was his mission.</p>
+<p>And so thankful for all of you, and for your support.</p>
+<p>And I say all these things. In the name of our savior, Jesus Christ, Amen.</p>
+<p><img src="https://spencerirvinereed.github.io/spencer/posts/20230930 The Funeral/provo_temple.jpg" class="img-fluid"> ## Bishop McCormack</p>
+<p>Two favorite songs that all primary children sing.</p>
+<p><code>I'm a child of God</code> and <code>Families Can Be Together Forever</code>.</p>
+<p>Tw0 basic truths of the gospel.</p>
+<p>Thank you to all family and friends for their beautiful messages and music this morning.</p>
+<p>The Spirit was felt here in this Chapel.</p>
+<p>If I can ask you to please take your hymnal out and turn to the hymn #86 that we sang this morning. See Section&nbsp;0.2</p>
+<p>This hymn was not written by Emma Smith or one of the members of the past as the majority of songs in this book were.</p>
+<p>We adopted this hymn because it brings to the focus, the fundamental plan of happiness, the main theme in the Book of Mormon.</p>
+<p>In the first verse, the prominent section gives God, the glory for creating a world where we could come to gain the experience we need to grow up.</p>
+<p>We need to grow up to be like our Heavenly Father.</p>
+<p>Please turn your attention to the next verse, which brings us to the experience. the wonders of this earth. And the joy within</p>
+<p>In Galatians 5:22 and 23 , it reads.</p>
+<blockquote class="blockquote">
+<p>But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance: against such there is no law.</p>
+</blockquote>
+<p>That’s what Spencer represented.</p>
+<p>We are here to be happy.</p>
+<p>Joseph Smith said.</p>
+<p>It is the the design of our existence.</p>
+<p>Now, as with all things, there needs to be an opposite. If not, we could not grow or have the agency to choose and make decisions for ourselves without depending on others to make them for us.</p>
+<p>To be forced without agency is evil, and this is what the adversary wants. And since we are imperfect and expected to be imperfect, our Father’s Plan is to send His Son, His only begotten to redeem us from our imperfection, or save us from our mistakes.</p>
+<p>In the third verse is the one that tears at me. It’s the one that when I ponder it, there’s something. There’s someone who loves me so much that would sacrifice Himself to go through such terrible experiences in the Garden of Gethsemane so that he can know my experiences of pain.</p>
+<p>Through this act, in which no one understands how it works. He knows what we feel when someone we love without any fault of their own departs from this earth.</p>
+<p>As the verse says. <code>I scarce can take it in</code>.</p>
+<p>However, brothers and sisters, there’s hope. Meaning, whether we believe it or not, there comes a time when the Savior will return to embrace and congratulate us.</p>
+<p>For, as we say in our faith, endure to the end.</p>
+<p><code>Then I shall bow in humble adoration</code>. <code>And there proclaim my God</code>. <code>How great thou art</code>.</p>
+<p>In 2 Nephi 4, Lehi blesses his posterity and passes away.</p>
+<p>In reading Nephi’s words, Nephi seem initially and understandably, to have a difficult time with his father’s passing.</p>
+<p>In verse 13, Nephi stated that his brothers, Laman and Lemuel were angry with him.</p>
+<p>Can you imagine the scenario of all the trials that Nephi had gone through because of his brothers?</p>
+<p>And then on top of all of that, the Lord said,</p>
+<blockquote class="blockquote">
+<p>Don’t Nephi. You are not allowed to say anymore to them.</p>
+</blockquote>
+<p>For the next few verses, Nephi remembers all that the Lord has done for him.</p>
+<p>He remembers this because there was a choice he had to make.</p>
+<p>He’s been through many afflictions and remember he’s grieving or mourning his father’s death.</p>
+<p>This is what he said in verse 27.</p>
+<blockquote class="blockquote">
+<p>And why should I yield to sin, because of my flesh? Yea, why should I give way to temptations, that the evil one have place in my heart to destroy my peace and afflict my soul? Why am I angry because of mine enemy?</p>
+</blockquote>
+<p>He’s Speaking of Laman and Lemuel.</p>
+<blockquote class="blockquote">
+<p>Awake, my soul! No longer droop in sin. Rejoice, O my heart, and give place no more for the enemy of my soul.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Do not anger again because of mine enemies. Do not slacken my strength because of mine afflictions.</p>
+</blockquote>
+<p>I ask you to please read the last five verses of the end of Nephi Chapter 4. Nephi pulls himself together and teaches us how to turn to the Lord to help in times of affliction.</p>
+<p>These verses are very personal to him. And if you think of how he’s feeling when he writes these verses. There’s a parallel here with Nephi.</p>
+<p>During a very vulnerable time for him after losing his father. And with all of us grieving the loss of Spencer.</p>
+<p>In my opinion, Nephi’s personal struggle and passion is more apparent in these verses than in any other of his writings.</p>
+<p>In verse 30, it begins with this with this prayer and pleas. I ask you to put yourself in his place. And repeat this prayer in your mind. And Nephi asks that you pray unto the Lord in this manner.</p>
+<p>In verse 30.</p>
+<blockquote class="blockquote">
+<p>O Lord, I will praise thee forever; yea, my soul will rejoice in thee, my God, and the rock of my salvation.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>O Lord, wilt thou redeem my soul? Wilt thou deliver me out of the hands of mine enemies? Wilt thou make me that I may shake at the appearance of sin?</p>
+</blockquote>
+<p>He continues, in verse 33</p>
+<blockquote class="blockquote">
+<p>O Lord, wilt thou encircle me around in the robe of thy righteousness! O Lord, wilt thou make a way for mine escape before mine enemies! Wilt thou make my path straight before me! Wilt thou not place a stumbling block in my way—but that thou wouldst clear my way before me, and hedge not up my way, but the ways of mine enemy.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>O Lord, I have trusted in thee, and I will trust in thee forever. I will not put my trust in the arm of flesh; for I know that cursed is he that putteth his trust in the arm of flesh. Yea, cursed is he that putteth his trust in man or maketh flesh his arm.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Yea, I know that God will give liberally to him that asketh. Yea, my God will give me, if I bask cnot amiss; therefore I will lift up my voice unto thee; yea, I will cry unto thee, my God, the drock of my erighteousness. Behold, my voice shall forever ascend up unto thee, my rock and mine everlasting God. Amen.</p>
+</blockquote>
+<p>I would like to bear in my testimony that I know God lives. He loves us. He sent his Son to redeem us.</p>
+<p>I know that Joseph Smith is a prophet of God And he translated the Book of Mormon by the power of God.</p>
+<p>I know that the Church of Jesus Christ of Latter-day Saints is the church here on this earth today</p>
+<p>And I know that this church is led by a prophet, a living prophet, who receives revelation</p>
+<p>Thank you all for being here.</p>
+<p>Meg, We love you.</p>
+<p>We love your family. Although for a short time, I know that they love you. You have such great support. And it goes without saying that Spencer was such a great guy.</p>
+<p>I leave you with a blessing that you will always stay close to the gospel. He’s smiling down and up on us right now.</p>
+<p>I know who he is.</p>
+<p>And I say these things, in the name of Jesus Christ, Amen.</p>
+</section>
+<section id="closing-prayer---elijah-nunez" class="level2">
+<h2 class="anchored" data-anchor-id="closing-prayer---elijah-nunez">Closing Prayer - Elijah Nunez</h2>
+<p>Our dear Heavenly Father. We thank thee for this day that thou hast blessed us with.</p>
+<p>For the time that we have now to say goodbye to Spencer in this life. We’re grateful for many years and the time that thou hast blessed us to be with him in this life. And to know him, to love him.</p>
+<p>We thank thee for this gospel and for the plan of salvation. We’re grateful for the promise of being able to live and be with our loved ones again.</p>
+<p>We ask thee to please bless us this time as we say goodbye. So that we continue to remember, Spencer.</p>
+<p>That we’ll be looking for opportunities in our life to love and serve the people around us.</p>
+<p>With happiness and kindness.</p>
+<p>We asked thee to please continue to bless us all. T0 continue to have the Spirit with us. Help us, to do our best, as we live in this life.</p>
+<p>We love thee and say these things in the name of Jesus Christ, Amen.</p>
 <script src="https://utteranc.es/client.js" repo="https://github.com/spencerirvinereed/blogComment" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
 </script>
 
