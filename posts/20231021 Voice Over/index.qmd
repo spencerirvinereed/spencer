@@ -1,0 +1,68 @@
+---
+title: "Spencer's Voice"
+author: "Spencer and Don"
+date: "2023-10-21"
+format: 
+  html:
+    resources:
+      - how_going.mp3
+      - Do_good.mp3
+      - oscars.mp3
+categories: [audio recording]
+---
+
+::: callout-note
+## This section contains audio, may need to adjust volume accordingly
+:::
+
+## Introduction
+
+--- 
+
+<figure>
+<figcaption>Click to listen</figcaption>
+<audio controls src="how_going.mp3">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>
+</figure>
+
+![](tree.jpeg)
+
+## Should be Good
+
+---
+
+<figure>
+<figcaption>Click to listen</figcaption>
+<audio controls src="Do_good.mp3">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>
+</figure>
+
+![](mtn.jpeg)
+
+---
+
+## Comment on Oscars
+
+<figure>
+<figcaption>Click to listen</figcaption>
+<audio controls src="oscars.mp3">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>
+</figure>
+
+![](leaves.jpeg)
+
+```{=html}
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/spencerirvinereed/blogComment"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+```
