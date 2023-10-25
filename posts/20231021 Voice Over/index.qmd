@@ -1,7 +1,7 @@
 ---
 title: "Spencer's Voice"
 author: "Spencer and Don"
-date: "2016-09-29"
+date: "2016-03-01"
 format: 
   html:
     resources:
@@ -17,42 +17,54 @@ categories: [audio recording]
 
 ## Introduction
 
---- 
+------------------------------------------------------------------------
 
 <figure>
+
 <figcaption>Click to listen</figcaption>
+
 <audio controls src="how_going.mp3">
-        Your browser does not support the
-        <code>audio</code> element.
+
+Your browser does not support the <code>audio</code> element.
+
 </audio>
+
 </figure>
 
 ![](tree.jpeg)
 
 ## Should be Good
 
----
+------------------------------------------------------------------------
 
 <figure>
+
 <figcaption>Click to listen</figcaption>
+
 <audio controls src="Do_good.mp3">
-        Your browser does not support the
-        <code>audio</code> element.
+
+Your browser does not support the <code>audio</code> element.
+
 </audio>
+
 </figure>
 
 ![](mtn.jpeg)
 
----
+------------------------------------------------------------------------
 
 ## Comment on Oscars
 
 <figure>
+
 <figcaption>Click to listen</figcaption>
+
 <audio controls src="oscars.mp3">
-        Your browser does not support the
-        <code>audio</code> element.
+
+Your browser does not support the <code>audio</code> element.
+
 </audio>
+
 </figure>
 
 ![](leaves.jpeg)

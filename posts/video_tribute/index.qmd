@@ -1,12 +1,12 @@
 ---
-title: "Video : Washington DC North Mission"
+title: "Video: Washington DC North Mission"
 author: "President & Sister Neilson"
 date: "2023-10-01"
 format: 
   html:
     resources:
       - Full.MOV
-categories: [video_message]
+categories: [recording]
 ---
 
 Hi President & Sister Irvine, 💗
@@ -54,16 +54,13 @@ President Reid & Shelly Neilson (2019-2022) and missionaries that served in the 
 :::
 
 <figure>
-
-<figcaption>Click to listen</figcaption>
-
+<figcaption>Click to View</figcaption>
 <video controls src="Full.MOV">
-
 Your browser does not support the <code>video</code> element.
-
 </video>
-
 </figure>
+
+------------------------------------------------------------------------
 
 ```{=html}
 <script src="https://utteranc.es/client.js"
