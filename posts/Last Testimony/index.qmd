@@ -13,8 +13,8 @@ And I know He will not abandon me.
 
 He has shown me tender mercies with messages from friends of years past.
 
-I have heard from people whom I love and respect as a youth and as an adult.  
-I have felt my Savior's love.  
+I have heard from people whom I love and respect as a youth and as an adult.\
+I have felt my Savior's love.\
 I know He is real.
 
 ![At Mesa Temple, Aged 6](young.JPG){style="float:right;" fig-alt="At Marriage of an Aunt, 1994" width="201"}
@@ -27,18 +27,16 @@ He is Jesus the Christ.
 
 He is my loving Lord and Savior, even Redeemer of all mankind.
 
-I look to Him and I shall live again.
-I know Him.
-I love Him.
+I look to Him and I shall live again. I know Him. I love Him.
 
-In the sacred name of Jesus Christ,
-I testify of Him and pray. Amen.
+In the sacred name of Jesus Christ, I testify of Him and pray. Amen.
 
 ![At a Wedding, Mid 20s](peak.jpg){style="float:right;" fig-alt="At Marriage of a Friend" width="401"}
 
-An excerpt from Spencer's final scripture journal entry  
+An excerpt from Spencer's final scripture journal entry\
 21 September 2023
 
+```{=html}
 <script src="https://utteranc.es/client.js"
 repo="https://github.com/spencerirvinereed/blogComment"
 issue-term="pathname"
@@ -46,3 +44,4 @@ theme="github-light"
 crossorigin="anonymous"
 async>
 </script>
+```
