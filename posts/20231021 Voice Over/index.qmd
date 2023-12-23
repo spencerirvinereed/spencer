@@ -20,15 +20,10 @@ categories: [audio recording]
 ------------------------------------------------------------------------
 
 <figure>
-
 <figcaption>Click to listen</figcaption>
-
 <audio controls src="how_going.mp3">
-
 Your browser does not support the <code>audio</code> element.
-
 </audio>
-
 </figure>
 
 ![](tree.jpeg)
@@ -38,15 +33,10 @@ Your browser does not support the <code>audio</code> element.
 ------------------------------------------------------------------------
 
 <figure>
-
 <figcaption>Click to listen</figcaption>
-
 <audio controls src="Do_good.mp3">
-
 Your browser does not support the <code>audio</code> element.
-
 </audio>
-
 </figure>
 
 ![](mtn.jpeg)
@@ -56,15 +46,10 @@ Your browser does not support the <code>audio</code> element.
 ## Comment on Oscars
 
 <figure>
-
 <figcaption>Click to listen</figcaption>
-
 <audio controls src="oscars.mp3">
-
 Your browser does not support the <code>audio</code> element.
-
 </audio>
-
 </figure>
 
 ![](leaves.jpeg)
