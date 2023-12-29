@@ -1,0 +1,106 @@
+---
+title: "Memories We Keep"
+author: "Uncle David"
+date: "2023-12-29"
+categories: [memories]
+image: "intro.jpeg"
+---
+
+Merging onto the University Avenue from the 2230 North can seem like a driving in a blend line in a race track, joining the race from the pit lane (2230 N) to race track (Univ. Ave).^[https://en.wikipedia.org/wiki/Glossary_of_motorsport_terms]
+
+The pace and drama depends on the car one is driving and the horsepower or more accurately, the acceleration of the car.
+
+One constant is the view of Timpanogos.
+
+![](main.jpeg)
+
+------------------------------------------------------------------------
+
+On this day, returning to office, after an extended holiday time off, was feeling nostalgic in the Subaru that has been in the family since the beginning of this century.
+
+The nostalgia due to its array of CD Changer, a cassette player, and a FM receiver with 12 preset stations.
+
+Utah Valley has an abundance of FM station that perfectly serves those of us that experienced the latter half of the past century.
+
+There is Classical 89 that has morning, afternoon and evening hosts. (89.1 or 89.5 MHz in Provo/Orem Area)
+
+The one that plays soft hits from decades in 1900s. Classy FM. (99.1 MHz in Provo/Orem Area)
+
+Then the new station, that used to call itself GOAT-FM, is now Flashback 96.7 (MHz)
+
+------------------------------------------------------------------------
+
+With the view of Timpanogos fading, the cars transitioned into another blend line (800 North in Orem), after showing off cars agility.
+
+The Flashback FM played a melody that foreshadowed a great song.
+
+After an intro that lasted nearly a minute, singers harmonized then the lead singer began.
+
+Recognized the singer right away but I had not heard this song and almost forgotten it existed.
+
+![](main2.jpeg)
+
+------------------------------------------------------------------------
+
+At the office, tried to look up the song using some of the lines from the song.
+
+Took a while, thanks to algorithms, the song was found.
+
+Some would classify this as a Rhythm and Blues, Soul, Funk or even Disco.
+
+But great songs defy classification and create its own class.
+
+This should be classified as `Songs about Life`
+
+[Link to Love I Lost](https://www.youtube.com/watch?v=b1UkbZebiXQ)
+
+------------------------------------------------------------------------
+
+One level, the song captures the pains of separation with words and music.
+
+Teddy Pendergrass is an unique, generational talent.\
+Background singers, the arrangement and mastering. A perfect blend, a music from a bygone era.
+
+------------------------------------------------------------------------
+
+At another level, the song invokes memories of something lost (faded away) or given up as one ages.
+
+At times, life takes (and we follow) a direction not anticipated and not appreciated.
+
+It would be helpful and assuring to find a reason that explains why certain events occur. Why certain people appear and are separated from us.
+
+![](main3.jpeg)
+
+------------------------------------------------------------------------
+
+Until those questions are answered, the life and its meaning seem distant and not applicable.
+
+But in someways we find comfort and meaning in having had the chance to experience all facets of this life, form relationships, moreover create memories that will outlive this temporal existence.
+
+And occasionally, a song that triggers memory of life in simpler days.
+
+Appreciate the FM Technology, and those stations that stream, the old fashioned way.
+
+Thank you Kenny Gamble and Leon Huff for writing the song. Harold Melvin and the Blue Notes for recording the song. Musicians and technicians for preserving this piece.[^1]
+
+[^1]: https://en.wikipedia.org/wiki/The_Love_I\_Lost
+
+Kenny and Leon,
+
+Would it be OK if we changed the wording slightly.
+
+> The Love We Remember
+> The Faith That Guided Them
+> Those Memories We Cherish
+>
+> We will never let go
+
+```{=html}
+<script src="https://utteranc.es/client.js"
+repo="https://github.com/spencerirvinereed/blogComment"
+issue-term="pathname"
+theme="github-light"
+crossorigin="anonymous"
+async>
+</script>
+```
