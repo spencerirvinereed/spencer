@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -57,7 +57,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script>
@@ -91,6 +92,7 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
@@ -107,32 +109,34 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">An Abundant Life</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
+    <a class="nav-link" href="./about.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml"><i class="bi bi-rss" role="img">
+    <a class="nav-link" href="./index.xml" rel="" target=""><i class="bi bi-rss" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/"><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/" rel="" target=""><i class="bi bi-github" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com"><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com" rel="" target=""><i class="bi bi-twitter" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -172,9 +176,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="memories" data-listing-date-sort="1703833200000" data-listing-file-modified-sort="1703863131801" data-listing-reading-time-sort="2.55">
+<div class="quarto-post image-right" data-index="0" data-categories="memories" data-listing-date-sort="1703833200000" data-listing-file-modified-sort="1703863131000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <div class="thumbnail">
-<p><a href="./posts/20231229 Love We Remember/index.html"> <img src="./posts/20231229 Love We Remember/intro.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./posts/20231229 Love We Remember/index.html"> <img src="./posts/20231229 Love We Remember/intro.jpeg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./posts/20231229 Love We Remember/index.html">
@@ -207,9 +211,9 @@ Uncle David
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="covenants" data-listing-date-sort="1703574000000" data-listing-file-modified-sort="1703636937000" data-listing-reading-time-sort="1.92">
+<div class="quarto-post image-right" data-index="1" data-categories="covenants" data-listing-date-sort="1703574000000" data-listing-file-modified-sort="1703636937677" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <div class="thumbnail">
-<p><a href="./posts/20231226 In our hearts/index.html"> <img src="./posts/20231226 In our hearts/intro.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./posts/20231226 In our hearts/index.html"> <img src="./posts/20231226 In our hearts/intro.jpeg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./posts/20231226 In our hearts/index.html">
@@ -243,9 +247,9 @@ Uncle David
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="recollection,resolve" data-listing-date-sort="1703314800000" data-listing-file-modified-sort="1703375482946" data-listing-reading-time-sort="2.36">
+<div class="quarto-post image-right" data-index="2" data-categories="recollection,resolve" data-listing-date-sort="1703314800000" data-listing-file-modified-sort="1703375482000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <div class="thumbnail">
-<p><a href="./posts/20231223 Remembering/index.html"> <img src="./posts/20231223 Remembering/intro.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./posts/20231223 Remembering/index.html"> <img src="./posts/20231223 Remembering/intro.jpeg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./posts/20231223 Remembering/index.html">
@@ -281,9 +285,9 @@ Uncle David
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="recollection,testimony" data-listing-date-sort="1697004000000" data-listing-file-modified-sort="1697073406632" data-listing-reading-time-sort="3.205">
+<div class="quarto-post image-right" data-index="3" data-categories="recollection,testimony" data-listing-date-sort="1697004000000" data-listing-file-modified-sort="1697073406000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
 <div class="thumbnail">
-<p><a href="./posts/Betsy Miller/index.html"> <img src="./posts/Betsy Miller/temple.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Betsy Miller/index.html"> <p class="card-img-top"><img src="posts/Betsy Miller/temple.jpeg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Betsy Miller/index.html">
@@ -319,9 +323,9 @@ Betsy Miller
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="sports" data-listing-date-sort="1696658400000" data-listing-file-modified-sort="1696720486623" data-listing-reading-time-sort="3.46">
+<div class="quarto-post image-right" data-index="4" data-categories="sports" data-listing-date-sort="1696658400000" data-listing-file-modified-sort="1696720486000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
 <div class="thumbnail">
-<p><a href="./posts/Shot Clock Blog/index.html"> <img src="./posts/Shot Clock Blog/klose-goal-turnover.webp" class="thumnail-image"> </a></p>
+<p><a href="./posts/Shot Clock Blog/index.html"> <p class="card-img-top"><img src="posts/Shot Clock Blog/klose-goal-turnover.webp"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Shot Clock Blog/index.html">
@@ -354,9 +358,9 @@ Uncle David
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="testimony" data-listing-date-sort="1696485600000" data-listing-file-modified-sort="1698209048078" data-listing-reading-time-sort="0.735">
+<div class="quarto-post image-right" data-index="5" data-categories="testimony" data-listing-date-sort="1696485600000" data-listing-file-modified-sort="1698209048000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./posts/Last Testimony/index.html"> <img src="./posts/Last Testimony/young.JPG" class="thumnail-image"> </a></p>
+<p><a href="./posts/Last Testimony/index.html"> <p class="card-img-top"><img src="posts/Last Testimony/young.JPG" alt="At Marriage of an Aunt, 1994"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Last Testimony/index.html">
@@ -389,9 +393,9 @@ Spencer
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="gratitude,gathering" data-listing-date-sort="1696226400000" data-listing-file-modified-sort="1698209350750" data-listing-reading-time-sort="3.52">
+<div class="quarto-post image-right" data-index="6" data-categories="gratitude,gathering" data-listing-date-sort="1696226400000" data-listing-file-modified-sort="1698209350000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
 <div class="thumbnail">
-<p><a href="./posts/Mid Autumn Festival/index.html"> <img src="./posts/Mid Autumn Festival/roof_bw.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Mid Autumn Festival/index.html"> <p class="card-img-top"><img src="posts/Mid Autumn Festival/roof_bw.jpeg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Mid Autumn Festival/index.html">
@@ -424,9 +428,9 @@ Oct 2, 2023
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="blog" data-listing-date-sort="1696140000000" data-listing-file-modified-sort="1695696561543" data-listing-reading-time-sort="2.615">
+<div class="quarto-post image-right" data-index="7" data-categories="blog" data-listing-date-sort="1696140000000" data-listing-file-modified-sort="1695696561000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <div class="thumbnail">
-<p><a href="./posts/Married Years - 2017 - 2023/index.html"> <img src="./posts/Married Years - 2017 - 2023/moving_truck.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Married Years - 2017 - 2023/index.html"> <p class="card-img-top"><img src="posts/Married Years - 2017 - 2023/moving_truck.jpeg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Married Years - 2017 - 2023/index.html">
@@ -459,9 +463,9 @@ Irvine &amp; Nunez Family
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="recording" data-listing-date-sort="1696140000000" data-listing-file-modified-sort="1698208873025" data-listing-reading-time-sort="1.265">
+<div class="quarto-post image-right" data-index="8" data-categories="recording" data-listing-date-sort="1696140000000" data-listing-file-modified-sort="1698208873000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <div class="thumbnail">
-<p><a href="./posts/video_tribute/index.html"> <img src="./posts/video_tribute/Full.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/video_tribute/index.html"> <p class="card-img-top"><img src="posts/video_tribute/Full.jpg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/video_tribute/index.html">
@@ -494,9 +498,9 @@ President &amp; Sister Neilson
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="recording" data-listing-date-sort="1696053600000" data-listing-file-modified-sort="1698208063075" data-listing-reading-time-sort="37.31">
+<div class="quarto-post image-right" data-index="9" data-categories="recording" data-listing-date-sort="1696053600000" data-listing-file-modified-sort="1698208063000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="38">
 <div class="thumbnail">
-<p><a href="./posts/20230930 The Funeral/index.html"> <img src="./posts/20230930 The Funeral/sunrise2.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./posts/20230930 The Funeral/index.html"> <p class="card-img-top"><img src="posts/20230930 The Funeral/sunrise2.jpeg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/20230930 The Funeral/index.html">
@@ -529,9 +533,44 @@ Camelview Ward, Scottsdale Camelback Stake
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="remembering,friendship" data-listing-date-sort="1696053600000" data-listing-file-modified-sort="1696135188158" data-listing-reading-time-sort="2.895">
+<div class="quarto-post image-right" data-index="10" data-categories="blog" data-listing-date-sort="1696053600000" data-listing-file-modified-sort="1697305885000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./posts/Mark_Nielsen_Tribute/index.html"> <img src="./posts/Mark_Nielsen_Tribute/DSCN4195.JPG" class="thumnail-image"> </a></p>
+<p><a href="./posts/Working Years - 2013 - 2017/index.html"> <p class="card-img-top"><img src="posts/Working Years - 2013 - 2017/snow_shovel.jpeg"  class="thumbnail-image card-img"/></p> </a></p>
+</div>
+<div class="body">
+<a href="./posts/Working Years - 2013 - 2017/index.html">
+<h3 class="no-anchor listing-title">
+Working Years - 2013 - 2017
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
+blog
+</div>
+</div>
+<a href="./posts/Working Years - 2013 - 2017/index.html">
+<div class="listing-description">
+   
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/Working Years - 2013 - 2017/index.html">
+<div class="listing-date">
+Sep 30, 2023
+</div>
+<div class="listing-author">
+Irvine Family
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="11" data-categories="remembering,friendship" data-listing-date-sort="1696053600000" data-listing-file-modified-sort="1696135188000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="thumbnail">
+<p><a href="./posts/Mark_Nielsen_Tribute/index.html"> <p class="card-img-top"><img src="posts/Mark_Nielsen_Tribute/DSCN4195.JPG"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Mark_Nielsen_Tribute/index.html">
@@ -567,44 +606,9 @@ Mark Nielsen
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="blog" data-listing-date-sort="1696053600000" data-listing-file-modified-sort="1697305885221" data-listing-reading-time-sort="0.035">
+<div class="quarto-post image-right" data-index="12" data-categories="blog" data-listing-date-sort="1695967200000" data-listing-file-modified-sort="1697305749000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./posts/Working Years - 2013 - 2017/index.html"> <img src="./posts/Working Years - 2013 - 2017/snow_shovel.jpeg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/Working Years - 2013 - 2017/index.html">
-<h3 class="no-anchor listing-title">
-Working Years - 2013 - 2017
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
-blog
-</div>
-</div>
-<a href="./posts/Working Years - 2013 - 2017/index.html">
-<div class="listing-description">
-   
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/Working Years - 2013 - 2017/index.html">
-<div class="listing-date">
-Sep 30, 2023
-</div>
-<div class="listing-author">
-Irvine Family
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="12" data-categories="blog" data-listing-date-sort="1695967200000" data-listing-file-modified-sort="1697305749561" data-listing-reading-time-sort="0.03">
-<div class="thumbnail">
-<p><a href="./posts/BYU Years - 2007 - 2012/index.html"> <img src="./posts/BYU Years - 2007 - 2012/nice_shot.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/BYU Years - 2007 - 2012/index.html"> <p class="card-img-top"><img src="posts/BYU Years - 2007 - 2012/nice_shot.jpg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/BYU Years - 2007 - 2012/index.html">
@@ -637,9 +641,9 @@ Irvine Family
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="letters" data-listing-date-sort="1695880800000" data-listing-file-modified-sort="1697310088190" data-listing-reading-time-sort="0.055">
+<div class="quarto-post image-right" data-index="13" data-categories="letters" data-listing-date-sort="1695880800000" data-listing-file-modified-sort="1697310088000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./posts/California Mission - 2007 - 2009/index.html"> <img src="./posts/California Mission - 2007 - 2009/IMG_2180.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/California Mission - 2007 - 2009/index.html"> <img src="./posts/California Mission - 2007 - 2009/IMG_2180.jpg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./posts/California Mission - 2007 - 2009/index.html">
@@ -672,9 +676,9 @@ Elder Irvine
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="blog" data-listing-date-sort="1695794400000" data-listing-file-modified-sort="1697310830209" data-listing-reading-time-sort="0.975">
+<div class="quarto-post image-right" data-index="14" data-categories="blog" data-listing-date-sort="1695794400000" data-listing-file-modified-sort="1697310830000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./posts/Teenage Years - 2000 - 2007/index.html"> <img src="./posts/Teenage Years - 2000 - 2007/image.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Teenage Years - 2000 - 2007/index.html"> <img src="./posts/Teenage Years - 2000 - 2007/image.jpg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Teenage Years - 2000 - 2007/index.html">
@@ -707,9 +711,9 @@ Irvine Family
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-listing-date-sort="1695708000000" data-listing-file-modified-sort="1697766872073" data-listing-reading-time-sort="2.305">
+<div class="quarto-post image-right" data-index="15" data-listing-date-sort="1695708000000" data-listing-file-modified-sort="1697766872000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <div class="thumbnail">
-<p><a href="./posts/20230925 SRI Personal/index.html"> <img src="./posts/20230925 SRI Personal/temple_cloud.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./posts/20230925 SRI Personal/index.html"> <p class="card-img-top"><img src="posts/20230925 SRI Personal/temple_cloud.jpeg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/20230925 SRI Personal/index.html">
@@ -732,9 +736,9 @@ Sep 26, 2023
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="blog" data-listing-date-sort="1695708000000" data-listing-file-modified-sort="1697308333965" data-listing-reading-time-sort="0.1">
+<div class="quarto-post image-right" data-index="16" data-categories="blog" data-listing-date-sort="1695708000000" data-listing-file-modified-sort="1697308333000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./posts/growing up years - before 2000/index.html"> <img src="./posts/growing up years - before 2000/bike.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./posts/growing up years - before 2000/index.html"> <img src="./posts/growing up years - before 2000/bike.jpeg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./posts/growing up years - before 2000/index.html">
@@ -767,9 +771,9 @@ Irvine Family
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-categories="remembering" data-listing-date-sort="1679119200000" data-listing-file-modified-sort="1697310830249" data-listing-reading-time-sort="1.185">
+<div class="quarto-post image-right" data-index="17" data-categories="remembering" data-listing-date-sort="1679119200000" data-listing-file-modified-sort="1697310830000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <div class="thumbnail">
-<p><a href="./posts/A March Weekend/index.html"> <img src="./posts/A March Weekend/pano.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/A March Weekend/index.html"> <p class="card-img-top"><img src="posts/A March Weekend/pano.jpg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/A March Weekend/index.html">
@@ -802,9 +806,9 @@ Uncle David
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="18" data-categories="audio recording" data-listing-date-sort="1456815600000" data-listing-file-modified-sort="1698210297890" data-listing-reading-time-sort="0.415">
+<div class="quarto-post image-right" data-index="18" data-categories="audio recording" data-listing-date-sort="1456815600000" data-listing-file-modified-sort="1698210297000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./posts/20231021 Voice Over/index.html"> <img src="./posts/20231021 Voice Over/tree.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./posts/20231021 Voice Over/index.html"> <p class="card-img-top"><img src="posts/20231021 Voice Over/tree.jpeg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/20231021 Voice Over/index.html">
@@ -837,9 +841,9 @@ Spencer and Don
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="19" data-categories="letters" data-listing-date-sort="1207548000000" data-listing-file-modified-sort="1696204058494" data-listing-reading-time-sort="5.715">
+<div class="quarto-post image-right" data-index="19" data-categories="letters" data-listing-date-sort="1207548000000" data-listing-file-modified-sort="1696204058000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
 <div class="thumbnail">
-<p><a href="./posts/Letters Home from CA-2/index.html"> <img src="./posts/Letters Home from CA-2/fountain.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Letters Home from CA-2/index.html"> <p class="card-img-top"><img src="posts/Letters Home from CA-2/fountain.jpg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Letters Home from CA-2/index.html">
@@ -872,9 +876,9 @@ Elder Irvine
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="20" data-categories="letters" data-listing-date-sort="1206943200000" data-listing-file-modified-sort="1696204058638" data-listing-reading-time-sort="7.14">
+<div class="quarto-post image-right" data-index="20" data-categories="letters" data-listing-date-sort="1206943200000" data-listing-file-modified-sort="1696204058000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8">
 <div class="thumbnail">
-<p><a href="./posts/Letters Home from CA-3/index.html"> <img src="./posts/Letters Home from CA-3/flowers.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Letters Home from CA-3/index.html"> <p class="card-img-top"><img src="posts/Letters Home from CA-3/flowers.jpeg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Letters Home from CA-3/index.html">
@@ -907,9 +911,9 @@ Elder Irvine
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="21" data-categories="letters" data-listing-date-sort="1206338400000" data-listing-file-modified-sort="1696196901304" data-listing-reading-time-sort="6.555">
+<div class="quarto-post image-right" data-index="21" data-categories="letters" data-listing-date-sort="1206338400000" data-listing-file-modified-sort="1696196901000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7">
 <div class="thumbnail">
-<p><a href="./posts/Letters Home from CA-4/index.html"> <img src="./posts/Letters Home from CA-4/flower.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Letters Home from CA-4/index.html"> <p class="card-img-top"><img src="posts/Letters Home from CA-4/flower.jpeg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Letters Home from CA-4/index.html">
@@ -942,9 +946,9 @@ Elder Irvine
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="22" data-categories="letters" data-listing-date-sort="1203404400000" data-listing-file-modified-sort="1696553167297" data-listing-reading-time-sort="6.385">
+<div class="quarto-post image-right" data-index="22" data-categories="letters" data-listing-date-sort="1203404400000" data-listing-file-modified-sort="1696553167000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7">
 <div class="thumbnail">
-<p><a href="./posts/Letters Home from CA-6/index.html"> <img src="./posts/Letters Home from CA-6/acorn.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Letters Home from CA-6/index.html"> <p class="card-img-top"><img src="posts/Letters Home from CA-6/acorn.jpg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Letters Home from CA-6/index.html">
@@ -977,9 +981,9 @@ Elder Irvine
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="23" data-categories="letters" data-listing-date-sort="1197270000000" data-listing-file-modified-sort="1696271048428" data-listing-reading-time-sort="6.43">
+<div class="quarto-post image-right" data-index="23" data-categories="letters" data-listing-date-sort="1197270000000" data-listing-file-modified-sort="1696271048000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7">
 <div class="thumbnail">
-<p><a href="./posts/Letters Home from CA-5/index.html"> <img src="./posts/Letters Home from CA-5/canoe.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Letters Home from CA-5/index.html"> <p class="card-img-top"><img src="posts/Letters Home from CA-5/canoe.jpeg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Letters Home from CA-5/index.html">
@@ -1012,9 +1016,9 @@ Elder Irvine
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="24" data-categories="letters" data-listing-date-sort="1195455600000" data-listing-file-modified-sort="1695829450706" data-listing-reading-time-sort="9.375">
+<div class="quarto-post image-right" data-index="24" data-categories="letters" data-listing-date-sort="1195455600000" data-listing-file-modified-sort="1695829450000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10">
 <div class="thumbnail">
-<p><a href="./posts/Letters Home from CA/index.html"> <img src="./posts/Letters Home from CA/golden_sunrise.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Letters Home from CA/index.html"> <p class="card-img-top"><img src="posts/Letters Home from CA/golden_sunrise.jpg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Letters Home from CA/index.html">
@@ -1047,9 +1051,9 @@ Elder Irvine
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="25" data-categories="blog" data-listing-date-sort="571734000000" data-listing-file-modified-sort="1695817668168" data-listing-reading-time-sort="0.42">
+<div class="quarto-post image-right" data-index="25" data-categories="blog" data-listing-date-sort="571734000000" data-listing-file-modified-sort="1695817668000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./posts/welcome/index.html"> <img data-src="./posts/welcome/temple_flair.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/welcome/index.html"> <p class="card-img-top"><img data-src="posts/welcome/temple_flair.jpg"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
 <div class="body">
 <a href="./posts/welcome/index.html">
@@ -1118,9 +1122,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -1185,6 +1203,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {

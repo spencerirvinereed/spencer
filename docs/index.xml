@@ -9,7 +9,7 @@
 <link>https://spencerirvinereed.github.io/spencer/index.html</link>
 <atom:link href="https://spencerirvinereed.github.io/spencer/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.2.269</generator>
+<generator>quarto-1.3.450</generator>
 <lastBuildDate>Fri, 29 Dec 2023 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Memories We Keep</title>
@@ -347,7 +347,6 @@ Please give Don a hug for me, I truly enjoyed meeting him.</p>
   <category>testimony</category>
   <guid>https://spencerirvinereed.github.io/spencer/posts/Betsy Miller/index.html</guid>
   <pubDate>Wed, 11 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://spencerirvinereed.github.io/spencer/posts/Betsy Miller/temple.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Shot Clock Blog : Nov 2013 ~ Apr 2017</title>
@@ -410,7 +409,7 @@ Please give Don a hug for me, I truly enjoyed meeting him.</p>
 </ol>
 <p>He is a dark horse for the Heisman trophy, according to some, but he is just as dangerous as Tim Tebow was at Florida. Before a season-ending and gruesome injury at Utah State, Hill wowed college football fans and scouts with his running style and numbers (although many project him as a running back-type player in the NFL if he chooses to play/is drafted:</p>
 <p>I mean, he did run rampant in the 2013 game against Texas and even hurdled a defender on a touchdown run last year:</p>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/9rG7QoUMGiI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/9rG7QoUMGiI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <p>He’s coming back from tearing his knee, so no one is too sure if he’ll be the same. But, BYU’s independent schedule is intriguing and if they do well, it’ll be because of Taysom Hill. Everyone loves an underdog (see: Boise State).</p>
 <script src="https://utteranc.es/client.js" repo="https://github.com/spencerirvinereed/blogComment" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
 </script>
@@ -428,11 +427,10 @@ Please give Don a hug for me, I truly enjoyed meeting him.</p>
   <category>sports</category>
   <guid>https://spencerirvinereed.github.io/spencer/posts/Shot Clock Blog/index.html</guid>
   <pubDate>Sat, 07 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://spencerirvinereed.github.io/spencer/posts/Shot Clock Blog/klose-goal-turnover.webp" medium="image" type="image/webp"/>
 </item>
 <item>
   <title>Spencer’s Testimony</title>
-  <dc:creator>Spencer</dc:creator>
+  <dc:creator>Spencer </dc:creator>
   <link>https://spencerirvinereed.github.io/spencer/posts/Last Testimony/index.html</link>
   <description><![CDATA[ 
 
@@ -449,7 +447,7 @@ I know He is real.</p>
 <div class="quarto-figure quarto-figure-center" style="float:right;">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/Last Testimony/young.JPG" class="img-fluid figure-img" alt="At Marriage of an Aunt, 1994" width="201"></p>
-<p></p><figcaption class="figure-caption">At Mesa Temple, Aged 6</figcaption><p></p>
+<figcaption class="figure-caption">At Mesa Temple, Aged 6</figcaption>
 </figure>
 </div>
 <p>He exists.</p>
@@ -461,7 +459,7 @@ I know He is real.</p>
 <div class="quarto-figure quarto-figure-center" style="float:right;">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/Last Testimony/peak.jpg" class="img-fluid figure-img" alt="At Marriage of a Friend" width="401"></p>
-<p></p><figcaption class="figure-caption">At a Wedding, Mid 20s</figcaption><p></p>
+<figcaption class="figure-caption">At a Wedding, Mid 20s</figcaption>
 </figure>
 </div>
 <p>An excerpt from Spencer’s final scripture journal entry<br>
@@ -475,7 +473,6 @@ I know He is real.</p>
   <category>testimony</category>
   <guid>https://spencerirvinereed.github.io/spencer/posts/Last Testimony/index.html</guid>
   <pubDate>Thu, 05 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://spencerirvinereed.github.io/spencer/posts/Last Testimony/young.JPG" medium="image"/>
 </item>
 <item>
   <title>Harvest Gathering</title>
@@ -569,7 +566,6 @@ I know He is real.</p>
   <category>gathering</category>
   <guid>https://spencerirvinereed.github.io/spencer/posts/Mid Autumn Festival/index.html</guid>
   <pubDate>Mon, 02 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://spencerirvinereed.github.io/spencer/posts/Mid Autumn Festival/roof_bw.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Married Years - 2017 - 2023</title>
@@ -590,7 +586,7 @@ I know He is real.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/Married Years - 2017 - 2023/steven_wedding.jpeg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Steven &amp; Bree</figcaption><p></p>
+<figcaption class="figure-caption">Steven &amp; Bree</figcaption>
 </figure>
 </div>
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/Married Years - 2017 - 2023/steven_wedding2.jpg" class="img-fluid" alt="Steven &amp; Bree"> <a href="https://photos.app.goo.gl/wSDb2qjJ2Qswy8yu7">More photos</a></p>
@@ -640,7 +636,6 @@ I know He is real.</p>
   <category>blog</category>
   <guid>https://spencerirvinereed.github.io/spencer/posts/Married Years - 2017 - 2023/index.html</guid>
   <pubDate>Sun, 01 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://spencerirvinereed.github.io/spencer/posts/Married Years - 2017 - 2023/moving_truck.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Video: Washington DC North Mission</title>
@@ -673,12 +668,12 @@ I know He is real.</p>
 <hr>
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/video_tribute/Full.jpg" class="img-fluid"></p>
 <p>President Reid &amp; Shelly Neilson (2019-2022) and missionaries that served in the Washington DC North Mission.</p>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 The video contains audio, may need to adjust volume accordingly
 </div>
 </div>
@@ -704,7 +699,6 @@ Your browser does not support the <code>video</code> element.
   <category>recording</category>
   <guid>https://spencerirvinereed.github.io/spencer/posts/video_tribute/index.html</guid>
   <pubDate>Sun, 01 Oct 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://spencerirvinereed.github.io/spencer/posts/video_tribute/Full.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>The Funeral Service</title>
@@ -1252,12 +1246,12 @@ Your browser does not support the <code>video</code> element.
 <p><em>Chorus Glory! Glory! Hallelujah! Glory! Glory! Hallelujah! Glory! Glory! Hallelujah! His truth is marching on</em>.</p>
 <p>In the beauty of the lilies Christ was born across the sea, With a glory in His bosom That transfigures you and me; As He died to make men holy, Let us die to make men free; While God is marching on.</p>
 <p><em>Chorus Glory! Glory! Hallelujah! Glory! Glory! Hallelujah! Glory! Glory! Hallelujah! His truth is marching on</em>.</p>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 These files contains audio, may need to adjust volume accordingly. Also note that the recording of hymns have less fidelity than the recording of speakers.
 </div>
 </div>
@@ -1878,7 +1872,44 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
   <category>recording</category>
   <guid>https://spencerirvinereed.github.io/spencer/posts/20230930 The Funeral/index.html</guid>
   <pubDate>Sat, 30 Sep 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://spencerirvinereed.github.io/spencer/posts/20230930 The Funeral/sunrise2.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Working Years - 2013 - 2017</title>
+  <dc:creator>Irvine Family</dc:creator>
+  <link>https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="snowman" class="level2">
+<h2 class="anchored" data-anchor-id="snowman">Snowman</h2>
+<p><img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/snow_shovel.jpeg" class="img-fluid"></p>
+</section>
+<section id="sports-fan" class="level2">
+<h2 class="anchored" data-anchor-id="sports-fan">Sports Fan</h2>
+<p><img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/NLDS.jpeg" class="img-fluid"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/rover.JPG" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">20170430, Gaithursburg, MD</figcaption>
+</figure>
+</div>
+</section>
+<section id="car-show" class="level2">
+<h2 class="anchored" data-anchor-id="car-show">Car Show</h2>
+<p><img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/car_show1.jpeg" class="img-fluid"> <img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/car_show2.jpeg" class="img-fluid"> <img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/car_show3.jpeg" class="img-fluid"> <img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/car_show4.jpeg" class="img-fluid"></p>
+<p><img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/friends.jpg" class="img-fluid"></p>
+<p><img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/game.jpeg" class="img-fluid"></p>
+<p><img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/game2.jpeg" class="img-fluid"></p>
+
+
+</section>
+
+ ]]></description>
+  <category>blog</category>
+  <guid>https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/index.html</guid>
+  <pubDate>Sat, 30 Sep 2023 06:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Spencer : The College Man</title>
@@ -1916,7 +1947,7 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/Mark_Nielsen_Tribute/DSCN4223.JPG" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Hopscotch</figcaption><p></p>
+<figcaption class="figure-caption">Hopscotch</figcaption>
 </figure>
 </div>
 </div>
@@ -1924,7 +1955,7 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/Mark_Nielsen_Tribute/DSCN4263.JPG" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">The Sign</figcaption><p></p>
+<figcaption class="figure-caption">The Sign</figcaption>
 </figure>
 </div>
 </div>
@@ -1934,7 +1965,7 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/Mark_Nielsen_Tribute/DSCN4260.JPG" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Playground</figcaption><p></p>
+<figcaption class="figure-caption">Playground</figcaption>
 </figure>
 </div>
 </div>
@@ -1942,7 +1973,7 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/Mark_Nielsen_Tribute/DSCN4230.JPG" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Hopscotch 2</figcaption><p></p>
+<figcaption class="figure-caption">Hopscotch 2</figcaption>
 </figure>
 </div>
 </div>
@@ -1957,7 +1988,7 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/Mark_Nielsen_Tribute/Picnic!!! 006.JPG" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Picnic 1</figcaption><p></p>
+<figcaption class="figure-caption">Picnic 1</figcaption>
 </figure>
 </div>
 </div>
@@ -1965,7 +1996,7 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/Mark_Nielsen_Tribute/Picnic!!! 004.JPG" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Picnic 2</figcaption><p></p>
+<figcaption class="figure-caption">Picnic 2</figcaption>
 </figure>
 </div>
 </div>
@@ -1975,7 +2006,7 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/Mark_Nielsen_Tribute/Picnic!!! 005.JPG" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Picnic 3</figcaption><p></p>
+<figcaption class="figure-caption">Picnic 3</figcaption>
 </figure>
 </div>
 </div>
@@ -1983,7 +2014,7 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/Mark_Nielsen_Tribute/Kameron 314.JPG" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Kameron</figcaption><p></p>
+<figcaption class="figure-caption">Kameron</figcaption>
 </figure>
 </div>
 </div>
@@ -2079,46 +2110,6 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
   <category>friendship</category>
   <guid>https://spencerirvinereed.github.io/spencer/posts/Mark_Nielsen_Tribute/index.html</guid>
   <pubDate>Sat, 30 Sep 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://spencerirvinereed.github.io/spencer/posts/Mark_Nielsen_Tribute/DSCN4195.JPG" medium="image"/>
-</item>
-<item>
-  <title>Working Years - 2013 - 2017</title>
-  <dc:creator>Irvine Family</dc:creator>
-  <link>https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="snowman" class="level2">
-<h2 class="anchored" data-anchor-id="snowman">Snowman</h2>
-<p><img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/snow_shovel.jpeg" class="img-fluid"></p>
-</section>
-<section id="sports-fan" class="level2">
-<h2 class="anchored" data-anchor-id="sports-fan">Sports Fan</h2>
-<p><img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/NLDS.jpeg" class="img-fluid"></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/rover.JPG" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">20170430, Gaithursburg, MD</figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="car-show" class="level2">
-<h2 class="anchored" data-anchor-id="car-show">Car Show</h2>
-<p><img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/car_show1.jpeg" class="img-fluid"> <img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/car_show2.jpeg" class="img-fluid"> <img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/car_show3.jpeg" class="img-fluid"> <img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/car_show4.jpeg" class="img-fluid"></p>
-<p><img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/friends.jpg" class="img-fluid"></p>
-<p><img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/game.jpeg" class="img-fluid"></p>
-<p><img src="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/game2.jpeg" class="img-fluid"></p>
-
-
-</section>
-
- ]]></description>
-  <category>blog</category>
-  <guid>https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/index.html</guid>
-  <pubDate>Sat, 30 Sep 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://spencerirvinereed.github.io/spencer/posts/Working Years - 2013 - 2017/snow_shovel.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>BYU Years - 2007 - 2012</title>
@@ -2135,7 +2126,7 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/BYU Years - 2007 - 2012/college_life1.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Collge Friends</figcaption><p></p>
+<figcaption class="figure-caption">Collge Friends</figcaption>
 </figure>
 </div>
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/BYU Years - 2007 - 2012/holi_festival.jpg" class="img-fluid" alt="Colors Festival, Spanish Fork"> <img src="https://spencerirvinereed.github.io/spencer/posts/BYU Years - 2007 - 2012/temple_marriage.jpg" class="img-fluid" alt="Temple Marriage"></p>
@@ -2148,7 +2139,6 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
   <category>blog</category>
   <guid>https://spencerirvinereed.github.io/spencer/posts/BYU Years - 2007 - 2012/index.html</guid>
   <pubDate>Fri, 29 Sep 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://spencerirvinereed.github.io/spencer/posts/BYU Years - 2007 - 2012/nice_shot.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>California Mission - 2007-2009</title>
@@ -2191,7 +2181,7 @@ I glory in truth, I glory in my Jesus, for he hath redeemed my soul.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/Teenage Years - 2000 - 2007/alfredo_spencer.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">High School?</figcaption><p></p>
+<figcaption class="figure-caption">High School?</figcaption>
 </figure>
 </div>
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/Teenage Years - 2000 - 2007/by_garage.jpg" class="img-fluid"></p>
@@ -2276,7 +2266,6 @@ Both of whom adored Spencer and influenced his outlook and shaped his core.</p>
  ]]></description>
   <guid>https://spencerirvinereed.github.io/spencer/posts/20230925 SRI Personal/index.html</guid>
   <pubDate>Tue, 26 Sep 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://spencerirvinereed.github.io/spencer/posts/20230925 SRI Personal/temple_cloud.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Growing Up Years : 1988 - 2000</title>
@@ -2290,13 +2279,13 @@ Both of whom adored Spencer and influenced his outlook and shaped his core.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/growing up years - before 2000/19940625_AZ.JPG" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Turley’s Wedding, Mesa AZ, June 1994</figcaption><p></p>
+<figcaption class="figure-caption">Turley’s Wedding, Mesa AZ, June 1994</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/growing up years - before 2000/scout.jpeg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Date TBD</figcaption><p></p>
+<figcaption class="figure-caption">Date TBD</figcaption>
 </figure>
 </div>
 <div class="quarto-layout-panel">
@@ -2305,7 +2294,7 @@ Both of whom adored Spencer and influenced his outlook and shaped his core.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/growing up years - before 2000/spencer_at_5.jpeg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Pre School Days, about 5 yrs old</figcaption><p></p>
+<figcaption class="figure-caption">Pre School Days, about 5 yrs old</figcaption>
 </figure>
 </div>
 </div>
@@ -2313,7 +2302,7 @@ Both of whom adored Spencer and influenced his outlook and shaped his core.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/growing up years - before 2000/spencer1.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Perhaps at Age 1, PC Mark Volk</figcaption><p></p>
+<figcaption class="figure-caption">Perhaps at Age 1, PC Mark Volk</figcaption>
 </figure>
 </div>
 </div>
@@ -2349,7 +2338,7 @@ Both of whom adored Spencer and influenced his outlook and shaped his core.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/A March Weekend/pano.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">The Buttes, Tempe AZ, May 2016</figcaption><p></p>
+<figcaption class="figure-caption">The Buttes, Tempe AZ, May 2016</figcaption>
 </figure>
 </div>
 <p>What a venue for a baseball game, or any event.<br>
@@ -2361,7 +2350,7 @@ I wanted to watch a game in person,</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/A March Weekend/at_game.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Angels Baseball, 18 March 2023</figcaption><p></p>
+<figcaption class="figure-caption">Angels Baseball, 18 March 2023</figcaption>
 </figure>
 </div>
 <p>For we had a personal baseball commentator, a historian, and the current event interpreter sitting with us.</p>
@@ -2372,7 +2361,7 @@ I wanted to watch a game in person,</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://spencerirvinereed.github.io/spencer/posts/A March Weekend/diablo.jpeg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Diablo Stadium, 18 March 2023</figcaption><p></p>
+<figcaption class="figure-caption">Diablo Stadium, 18 March 2023</figcaption>
 </figure>
 </div>
 <script src="https://utteranc.es/client.js" repo="https://github.com/spencerirvinereed/blogComment" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
@@ -2384,7 +2373,6 @@ I wanted to watch a game in person,</p>
   <category>remembering</category>
   <guid>https://spencerirvinereed.github.io/spencer/posts/A March Weekend/index.html</guid>
   <pubDate>Sat, 18 Mar 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://spencerirvinereed.github.io/spencer/posts/A March Weekend/pano.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Spencer’s Voice</title>
@@ -2395,12 +2383,12 @@ I wanted to watch a game in person,</p>
 
 
 
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 This section contains audio, may need to adjust volume accordingly
 </div>
 </div>
@@ -2456,7 +2444,6 @@ Your browser does not support the <code>audio</code> element.
   <category>audio recording</category>
   <guid>https://spencerirvinereed.github.io/spencer/posts/20231021 Voice Over/index.html</guid>
   <pubDate>Tue, 01 Mar 2016 07:00:00 GMT</pubDate>
-  <media:content url="https://spencerirvinereed.github.io/spencer/posts/20231021 Voice Over/tree.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Six Month Mark in Santa Clarita</title>
@@ -2577,7 +2564,6 @@ Spencer</p>
   <category>letters</category>
   <guid>https://spencerirvinereed.github.io/spencer/posts/Letters Home from CA-2/index.html</guid>
   <pubDate>Mon, 07 Apr 2008 06:00:00 GMT</pubDate>
-  <media:content url="https://spencerirvinereed.github.io/spencer/posts/Letters Home from CA-2/fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
