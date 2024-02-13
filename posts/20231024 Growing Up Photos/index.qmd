@@ -2,26 +2,23 @@
 title: "Growing Up Years Photo"
 author: "Irvine Family"
 date: "2023-10-24"
-draft: yes
 categories: [photos]
 ---
 
-![](21.png)
----
+## ![](21.png)
 
-![](30.png)
----
+## ![](30.png)
 
-![](28.png)
----
+## ![](28.png)
 
 ![](26.png)
 
----
+------------------------------------------------------------------------
 
 ![](12.png)
 
----
+------------------------------------------------------------------------
+
 ```{=html}
 <script src="https://utteranc.es/client.js"
 repo="https://github.com/spencerirvinereed/blogComment"
