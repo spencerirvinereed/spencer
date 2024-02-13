@@ -1,5 +1,5 @@
 ---
-title: "Travel Together"
+title: "Travels Together"
 author: "Uncle David"
 date: "2024-2-12"
 categories: [recollection]
