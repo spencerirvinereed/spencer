@@ -1,0 +1,53 @@
+---
+title: "Journey to a Wedding"
+author: "Uncle David"
+date: "2024-2-14"
+categories: [travels]
+image: "main.jpeg"
+---
+
+Four adults and 4 children are travelling from Utah to Arizona.
+
+To attend the wedding of my sister.
+
+My father, your father, my cousin are matched to, you, your sister, my son and daughter.
+
+---
+
+The wedding was held in June because, my sister wanted you and your sister to be there -- after the summer break starts.
+
+---
+
+A day before the wedding, the family was sealed in the Mesa Temple.
+
+My father, my mother, my 2 sisters and all the rest of the family members sealed as a family.
+
+The wedding began early on June 25th
+
+You and your brother wore matching outfits.
+
+![@ Mesa Temple](30.png)  
+
+I remember your brother, 2 at the time, was looking for his Dad.  He grabbed a leg of a nearby person, since he couldn't see beyond their legs.
+
+One purpose of that trip was to attend the wedding of your aunt. 
+
+But we also gathered to be united eternally as a family unit.
+
+It is good to remember that journey a long ago.
+Grateful that we took part and made promises to God and to one another.
+
+![](main.jpeg)
+
+
+
+
+```{=html}
+<script src="https://utteranc.es/client.js"
+repo="https://github.com/spencerirvinereed/blogComment"
+issue-term="pathname"
+theme="github-light"
+crossorigin="anonymous"
+async>
+</script>
+```
