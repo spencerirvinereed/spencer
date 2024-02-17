@@ -1,0 +1,67 @@
+---
+title: "Journey to 中國"
+author: "Uncle David"
+date: "2024-2-16"
+categories: [travels]
+image: "m1.jpeg"
+---
+
+Four adults and 7 children are boarding a plane.
+
+My mother, my sister and her 3 children.
+
+My wife and my 4 children are traveling to 北京.
+
+![](images/009.jpg)Surprisingly, this city of 3 million has a direct flight to our destination.
+
+With 11 of us, we take up a whole row and then some.
+
+When we arrive in Beijing, we are led by a Korean Chinese man.
+
+The restaurants featured great food and some local entertainment as well.
+
+I remember some of the food were spicy and most of us were drinking water and soda to wash down the meal.
+
+## First stop 天安門 square
+
+![](images/LND_F26D64C8-48F9-494D-AAFA-862F187D2835-EDIT.jpg)
+
+![](m1.jpeg)
+
+We get to see things we only read about or imagined.
+
+A mind and soul enlarging visit.
+
+Learned that emperors fulfilled the role of speaking on behalf of the people to Heavens.
+
+Usually praying for the successful harvest.
+
+## @ 萬里長城
+
+![](images/DSC00035-01.JPG)
+
+We take a cable car up to see the "10K Li Wall"
+
+![](images/DSC00054.JPG)
+
+At the 頤和園, Summer Palace or Imperial Garden in Beijing
+
+---
+
+![](m2.jpeg)
+
+Had forgotten much of details about this trip.
+
+We had taken several hours of video, during this 3 day visit as a family.
+
+Great to recall that visit to China, during the first part of August in the year 2000.
+
+```{=html}
+<script src="https://utteranc.es/client.js"
+repo="https://github.com/spencerirvinereed/blogComment"
+issue-term="pathname"
+theme="github-light"
+crossorigin="anonymous"
+async>
+</script>
+```
