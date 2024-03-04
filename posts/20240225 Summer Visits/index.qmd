@@ -1,0 +1,41 @@
+---
+title: "Summer Visits"
+author: "Uncle David"
+date: "2024-2-25"
+categories: [travels]
+draft: yes
+image: "m1.jpeg"
+---
+
+Each summer we got together, whether in Maryland, Utah or even Korea.
+
+You came and each summer we could see you grow.
+
+![](temple_pagoda.JPG)
+
+As it says in Luke
+
+> And Jesus grew in wisdom and stature, and in favor with God and man
+
+![](BD_guy.JPG)
+
+Spencer had no problem talking to other people, whether they were older or more seasoned.
+
+Absorbed all things, contemplation.
+
+--- 
+
+Utah Visits
+
+
+
+
+```{=html}
+<script src="https://utteranc.es/client.js"
+repo="https://github.com/spencerirvinereed/blogComment"
+issue-term="pathname"
+theme="github-light"
+crossorigin="anonymous"
+async>
+</script>
+```
