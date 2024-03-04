@@ -6,7 +6,7 @@ categories: [travelers]
 image: "m2.jpg"
 ---
 
-Traveling to Mesa from Provo on an airplane was not an option for a long time
+Traveling to Mesa from Provo on a commercial airline was not an option for a long time
 
 During the time I have lived in Provo, the only practical option was either drive through Panguitch or Las Vegas.
 
