@@ -1,0 +1,38 @@
+---
+title: "Utah Summer Visits"
+author: "Uncle David"
+date: "2024-3-15"
+categories: [travels]
+image: "clouds.jpeg"
+---
+
+Thinking back to times we traveled to destinations in Utah.  
+We visited from Arches to Zion and places near and far.
+
+That visit to Vernal to visit the Dinosaur Museum.   
+And that time catching crawfishes along the shores of Soldier Creek.
+
+![](freedom parade.jpg)
+Our favorite was lining the streets of Provo to watch the Freedom Parade in July.
+We attended several editions of that parade.
+
+That year we got to seat across from the old Provo High.
+
+![The First Visit to Utah](slc temple.jpg)
+
+![](clouds.jpeg)
+![](parade.jpg)
+Thank you Spencer for your visits and enriching our summer.
+
+With fond and lasting memories of times shared.
+
+
+```{=html}
+<script src="https://utteranc.es/client.js"
+repo="https://github.com/spencerirvinereed/blogComment"
+issue-term="pathname"
+theme="github-light"
+crossorigin="anonymous"
+async>
+</script>
+```

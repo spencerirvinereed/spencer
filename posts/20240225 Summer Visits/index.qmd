@@ -1,13 +1,12 @@
 ---
-title: "Summer Visits"
+title: "Summer Visits to Korea"
 author: "Uncle David"
 date: "2024-2-25"
 categories: [travels]
-draft: yes
-image: "m1.jpeg"
+image: "sunrise.jpeg"
 ---
 
-Each summer we got together, whether in Maryland, Utah or even Korea.
+During growing up years, each summer brought us together, whether in Maryland, Utah or even Korea.
 
 You came and each summer we could see you grow.
 
@@ -21,14 +20,11 @@ As it says in Luke
 
 Spencer had no problem talking to other people, whether they were older or more seasoned.
 
-Absorbed all things, contemplation.
+Absorbed all things, with contemplation.
 
---- 
+Thankful for those times in a far away place
 
-Utah Visits
-
-
-
+![](temple.jpeg)
 
 ```{=html}
 <script src="https://utteranc.es/client.js"
